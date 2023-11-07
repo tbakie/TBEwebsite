@@ -12,21 +12,30 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language><atom:link href="https://tbakie.github.io/deneme/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>My Important post</title>
-      <link>https://tbakie.github.io/deneme/test/</link>
-      <pubDate>Tue, 15 Sep 2020 11:30:03 +0000</pubDate>
-      
-      <guid>https://tbakie.github.io/deneme/test/</guid>
-      <description>test</description>
-    </item>
-    
-    <item>
       <title>About</title>
       <link>https://tbakie.github.io/deneme/about/</link>
       <pubDate>Mon, 16 Oct 2023 11:02:08 -0700</pubDate>
       
       <guid>https://tbakie.github.io/deneme/about/</guid>
       <description>My name is Tugrul Baki Efesoy, a sophomore at the University of Washington pursuing dual majors in Computer Science and Electrical and Computer Engineering. In addition to my academic endeavors, I serve as the president of the Turkish Club, which boasts a vibrant community of over 50 active members. We focus on cultural events and educational initiatives to create an inclusive environment. Beyond academics and leadership, my hobbies like basketball and hiking provide a balanced lifestyle.</description>
+    </item>
+    
+    <item>
+      <title>Hobbies</title>
+      <link>https://tbakie.github.io/deneme/hobbies/</link>
+      <pubDate>Mon, 16 Oct 2023 11:02:08 -0700</pubDate>
+      
+      <guid>https://tbakie.github.io/deneme/hobbies/</guid>
+      <description>I&amp;rsquo;m passionate about a range of hobbies that keep me balanced and engaged. Playing basketball is more than just a game for me; it&amp;rsquo;s a way to build teamwork skills and stay physically fit. When I&amp;rsquo;m not on the court, I love spending quality time with my friends, as it provides me with a strong support system and a break from my busy schedule. I&amp;rsquo;m also involved in club activities at my university, offering a structured way to pursue my interests and engage with my community.</description>
+    </item>
+    
+    <item>
+      <title>Showcase</title>
+      <link>https://tbakie.github.io/deneme/showcase/</link>
+      <pubDate>Mon, 16 Oct 2023 11:02:08 -0700</pubDate>
+      
+      <guid>https://tbakie.github.io/deneme/showcase/</guid>
+      <description>In this assessment, I have built a TODO list manager. Productivity tools like TODO lists are becoming increasingly popular and with File I/O and ArrayLists you will be able to build one (and implement one or more features of your choosing!). My TODO list manager will allow a user to add items to a TODO list, mark TODOs as completed and save and load TODOs to and from a file.</description>
     </item>
     
   </channel>
