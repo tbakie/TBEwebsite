@@ -1,0 +1,4 @@
+baseURL = 'https://tbakie.github.io/deneme/'
+languageCode = 'en-us'
+title = 'My New Hugo Site'
+theme = 'PaperMod'
