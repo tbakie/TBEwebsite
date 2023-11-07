@@ -1,7 +1,7 @@
 
 baseURL: 'https://tbakie.github.io/deneme/'
 languageCode: 'en-us'
-title: 'My New Hugo '
+title: 'TBE Website '
 theme: PaperMod
 
 languages:
@@ -14,17 +14,76 @@ languages:
           series: series
         menu:
             main:
-                - name: Archive
-                  url: archives
+                - name: About
+                  url: about/
                   weight: 5
-                - name: Search
-                  url: search/
+                - name: Hobbies
+                  url: hobbies/
                   weight: 10
                 - name: Tags
                   url: tags/
                   weight: 10
-                - name: WiKi
+                - name: Showcase
+                  url: showcase/
+                  weight: 10
+                - name: Github
                   url: https://github.com/adityatelange/hugo-PaperMod/wiki/
-                - name: Discord
-                  url: https://discord.gg/ahpmTvhVmp
+                - name: Instagram
+                  url: https://www.instagram.com/baki__efe
 
+params:
+    env: production # to enable google analytics, opengraph, twitter-cards and schema.
+    description: "Theme PaperMod - https://github.com/adityatelange/hugo-PaperMod"
+    author: Theme PaperMod
+    # author: ["Me", "You"] # multiple authors
+
+    defaultTheme: auto
+    # disableThemeToggle: true
+    ShowShareButtons: false
+    ShowReadingTime: true
+    # disableSpecial1stPost: true
+    displayFullLangName: true
+    ShowPostNavLinks: true
+    ShowBreadCrumbs: true
+    ShowCodeCopyButtons: true
+    ShowRssButtonInSectionTermList: true
+    ShowToc: true
+    # comments: false
+    images: ["papermod-cover.png"]
+
+    profileMode:
+        enabled: false
+        title: Tugrul Baki Efesoy
+        imageUrl: "resim2.jpg"
+        imageTitle: my image
+        
+        
+        buttons:
+            - name: About
+              url: about/
+            - name: Tags
+              url: tags
+            - name: Showcsae
+              url: showcase/
+
+    homeInfoParams:
+        Title: "Greetings! This is my new website"
+        Content: >
+            # In this website you can see my projects, news, social media accounts and little bit about myself :D
+
+        
+            
+       
+
+    socialIcons:
+        - name: github
+          url: "https://github.com/tbakie"
+        - name: linkedin
+          url: "https://www.linkedin.com/in/tugrul-efesoy/"
+        - name: Instagram
+          url: "https://www.instagram.com/baki__efe"
+
+    editPost:
+        URL: "https://github.com/adityatelange/hugo-PaperMod/tree/exampleSite/content"
+        #Text: "" # edit text
+        appendFilePath: true # to append file path to Edit link
