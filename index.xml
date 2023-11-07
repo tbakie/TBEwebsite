@@ -1,19 +1,32 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>My New Hugo </title>
+    <title>TBE Website </title>
     <link>https://tbakie.github.io/deneme/</link>
-    <description>Recent content on My New Hugo </description>
+    <description>Recent content on TBE Website </description>
+    <image>
+      <title>TBE Website </title>
+      <url>https://tbakie.github.io/deneme/papermod-cover.png</url>
+      <link>https://tbakie.github.io/deneme/papermod-cover.png</link>
+    </image>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    <lastBuildDate>Sun, 14 May 2023 20:13:59 -0400</lastBuildDate><atom:link href="https://tbakie.github.io/deneme/index.xml" rel="self" type="application/rss+xml" />
+    <language>en-us</language><atom:link href="https://tbakie.github.io/deneme/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Overview of Hugo/PaperMod and Setting Up This Site</title>
+      <title>My Important post</title>
       <link>https://tbakie.github.io/deneme/test/</link>
-      <pubDate>Sun, 14 May 2023 20:13:59 -0400</pubDate>
+      <pubDate>Tue, 15 Sep 2020 11:30:03 +0000</pubDate>
       
       <guid>https://tbakie.github.io/deneme/test/</guid>
-      <description>This post provides an overview of Hugo (PaperMod theme) and details the steps I took in setting up this website.</description>
+      <description>test</description>
+    </item>
+    
+    <item>
+      <title>About</title>
+      <link>https://tbakie.github.io/deneme/about/</link>
+      <pubDate>Mon, 16 Oct 2023 11:02:08 -0700</pubDate>
+      
+      <guid>https://tbakie.github.io/deneme/about/</guid>
+      <description>My name is Tugrul Baki Efesoy, a sophomore at the University of Washington pursuing dual majors in Computer Science and Electrical and Computer Engineering. In addition to my academic endeavors, I serve as the president of the Turkish Club, which boasts a vibrant community of over 50 active members. We focus on cultural events and educational initiatives to create an inclusive environment. Beyond academics and leadership, my hobbies like basketball and hiking provide a balanced lifestyle.</description>
     </item>
     
   </channel>
