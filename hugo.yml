@@ -52,7 +52,7 @@ params:
     images: ["papermod-cover.png"]
 
     profileMode:
-        enabled: false
+        enabled: true
         title: Tugrul Baki Efesoy
         imageUrl: "resim2.jpg"
         imageTitle: my image
@@ -68,6 +68,7 @@ params:
 
     homeInfoParams:
         Title: "Greetings! This is my new website"
+        imageUrl: "resim1.jpg"
         Content: >
             # In this website you can see my projects, news, social media accounts and little bit about myself :D
 
