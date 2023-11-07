@@ -1,10 +1,83 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>Tags on My New Hugo Site</title>
+    <title>Tags on My New Hugo </title>
     <link>https://tbakie.github.io/deneme/tags/</link>
-    <description>Recent content in Tags on My New Hugo Site</description>
+    <description>Recent content in Tags on My New Hugo </description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language><atom:link href="https://tbakie.github.io/deneme/tags/index.xml" rel="self" type="application/rss+xml" />
+    <language>en-us</language>
+    <lastBuildDate>Sun, 14 May 2023 20:13:59 -0400</lastBuildDate><atom:link href="https://tbakie.github.io/deneme/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Blog</title>
+      <link>https://tbakie.github.io/deneme/tags/blog/</link>
+      <pubDate>Sun, 14 May 2023 20:13:59 -0400</pubDate>
+      
+      <guid>https://tbakie.github.io/deneme/tags/blog/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>CSS</title>
+      <link>https://tbakie.github.io/deneme/tags/css/</link>
+      <pubDate>Sun, 14 May 2023 20:13:59 -0400</pubDate>
+      
+      <guid>https://tbakie.github.io/deneme/tags/css/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>HTML</title>
+      <link>https://tbakie.github.io/deneme/tags/html/</link>
+      <pubDate>Sun, 14 May 2023 20:13:59 -0400</pubDate>
+      
+      <guid>https://tbakie.github.io/deneme/tags/html/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Hugo</title>
+      <link>https://tbakie.github.io/deneme/tags/hugo/</link>
+      <pubDate>Sun, 14 May 2023 20:13:59 -0400</pubDate>
+      
+      <guid>https://tbakie.github.io/deneme/tags/hugo/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Markdown</title>
+      <link>https://tbakie.github.io/deneme/tags/markdown/</link>
+      <pubDate>Sun, 14 May 2023 20:13:59 -0400</pubDate>
+      
+      <guid>https://tbakie.github.io/deneme/tags/markdown/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>PaperMod</title>
+      <link>https://tbakie.github.io/deneme/tags/papermod/</link>
+      <pubDate>Sun, 14 May 2023 20:13:59 -0400</pubDate>
+      
+      <guid>https://tbakie.github.io/deneme/tags/papermod/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Portfolio</title>
+      <link>https://tbakie.github.io/deneme/tags/portfolio/</link>
+      <pubDate>Sun, 14 May 2023 20:13:59 -0400</pubDate>
+      
+      <guid>https://tbakie.github.io/deneme/tags/portfolio/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Website</title>
+      <link>https://tbakie.github.io/deneme/tags/website/</link>
+      <pubDate>Sun, 14 May 2023 20:13:59 -0400</pubDate>
+      
+      <guid>https://tbakie.github.io/deneme/tags/website/</guid>
+      <description></description>
+    </item>
+    
   </channel>
 </rss>
