@@ -31,6 +31,16 @@
     </item>
     
     <item>
+      <title>How do I iteratively develop my website?</title>
+      <link>https://tbakie.github.io/deneme/post/02/second/</link>
+      <pubDate>Mon, 16 Oct 2023 11:02:08 -0700</pubDate>
+      
+      <guid>https://tbakie.github.io/deneme/post/02/second/</guid>
+      <description>To iteratively develop a Hugo static website and see changes on the spot, you can use Hugo&amp;rsquo;s built-in local server which live reloads as you make changes to your site. Here&amp;rsquo;s a step-by-step guide:
+Install Hugo on your local machine. Navigate to your Hugo site directory via the command line. Run hugo server in the command line. This command starts a local web server and auto-regenerates your site whenever you make changes to the content.</description>
+    </item>
+    
+    <item>
       <title>Showcase</title>
       <link>https://tbakie.github.io/deneme/showcase/</link>
       <pubDate>Mon, 16 Oct 2023 11:02:08 -0700</pubDate>
