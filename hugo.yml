@@ -17,6 +17,9 @@ languages:
                 - name: About
                   url: about/
                   weight: 5
+                  cover:
+                    image: post/resim1.jpg
+   
                 - name: Hobbies
                   url: hobbies/
                   weight: 10
