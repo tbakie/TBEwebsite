@@ -16,4 +16,4 @@ cover:
 - Run hugo server in the command line.
 - This command starts a local web server and auto-regenerates your site whenever you make changes to the content.
 - You can now see your changes in real-time by viewing http://localhost:1313 in your web browser.
-As you iterate on your website, you simply edit the files, and the changes will be reflected immediately in your browser, enabling a smooth and rapid development cycle. For a comprehensive guide and documentation, visiting the [here](https://gohugo.io/documentation/)   Hugo Documentation can be very helpful.
+As you iterate on your website, you simply edit the files, and the changes will be reflected immediately in your browser, enabling a smooth and rapid development cycle. For a comprehensive guide and documentation, visiting the [here](https://gohugo.io/documentation/)   Hugo Documentation can be very helpful!
