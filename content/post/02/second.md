@@ -3,13 +3,14 @@ title: "How do I iteratively develop my website?"
 date: "2023-10-16T11:02:08-07:00"
 author: " Efesoy "
 draft: false
+categories: ["Hugo"]
 cover:
     image: post/02/222.jpg
    
 
 ---
 ## To iteratively develop
- a Hugo static website and see changes on the spot, you can use Hugo's built-in local server which live reloads as you make changes to your site. Here's a step-by-step guide:
+ 🦾a Hugo **static** website and see changes on the spot, you can use Hugo's built-in local server which live reloads as you make changes to your site. Here's a step-by-step guide:
 
 - Install Hugo on your local machine.
 - Navigate to your Hugo site directory via the command line.

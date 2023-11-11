@@ -3,6 +3,7 @@ title: "What is Hugo?"
 date: "2023-10-16T11:02:08-07:00"
 author: " Efesoy "
 draft: false
+categories: ["Hugo"]
 cover:
     image: post/01/hugo.png
 

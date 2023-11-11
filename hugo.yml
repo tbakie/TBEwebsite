@@ -12,22 +12,32 @@ languages:
           category: categories
           tag: tags
           series: series
+          
+          
+
         menu:
             main:
-                - name: About
+                - identifier: 
+                  name: About
                   url: about/
                   weight: 5
-                  
-   
-                - name: Hobbies
+                - identifier: 
+                  name: Archives
+                  url: archives/
+                  weight: 9
+                - identifier: 
+                  name: Hobbies
                   url: hobbies/
-                  weight: 10
-                - name: Tags
-                  url: tags/
-                  weight: 10
-                - name: Showcase
+                  weight: 6
+                - identifier: categories
+                  name: Categories
+                  url: categories/
+                  weight: 8 
+                - identifier: 
+                  name: Showcase
                   url: showcase/
-                  weight: 10
+                  weight: 7
+                
                 - name: Github
                   url: https://github.com/tbakie
                 - name: Instagram
