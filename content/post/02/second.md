@@ -4,7 +4,7 @@ date: "2023-10-16T11:02:08-07:00"
 author: " Efesoy "
 draft: false
 cover:
-    image: post/02/test2.jpg
+    image: post/02/222.jpg
    
 
 ---

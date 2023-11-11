@@ -30,7 +30,7 @@ languages:
                   url: showcase/
                   weight: 10
                 - name: Github
-                  url: https://github.com/adityatelange/hugo-PaperMod/wiki/
+                  url: https://github.com/tbakie
                 - name: Instagram
                   url: https://www.instagram.com/baki__efe
 
@@ -70,12 +70,23 @@ params:
               url: showcase/
 
     homeInfoParams:
-        Title: "Greetings! This is my new website"
+        Title: "Welcome to my website!❤️"
         imageUrl: "resim1.jpg"
         Content: >
-            # In this website you can see my projects, news, social media accounts and little bit about myself :D
+            ## 🥰I'm thrilled to have you here. On this platform, I share insights and updates about my areas of interest,
 
-        
+            ## delving into topics I am passionate about every day.👾  
+            
+            ## Whether it's the latest tech trends, innovative projects,
+
+            ## or just musings from my daily life, there's always something new and exciting to explore.🦾
+
+            ## Stay connected and join my journey by following my social media links. Here, you'll also find a showcase of my projects,
+
+            ## giving you a glimpse into my work and what drives me.🧠
+
+
+            ## Thanks for stopping by, and I hope you find something that piques your interest!💘
             
        
 
@@ -88,6 +99,6 @@ params:
           url: "https://www.instagram.com/baki__efe"
 
     editPost:
-        URL: "https://github.com/adityatelange/hugo-PaperMod/tree/exampleSite/content"
+        URL: "https://github.com/tbakie"
         #Text: "" # edit text
         appendFilePath: true # to append file path to Edit link
