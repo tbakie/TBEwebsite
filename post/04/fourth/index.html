@@ -1,0 +1,447 @@
+<!DOCTYPE html>
+<html lang="en" dir="auto">
+
+<head><meta charset="utf-8">
+<meta http-equiv="X-UA-Compatible" content="IE=edge">
+<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+<meta name="robots" content="index, follow">
+<title>How To Deploy Website In Github | TBE Website </title>
+<meta name="keywords" content="">
+<meta name="description" content="Deploying ⚙️ Creating a website on GitHub is an effective and professional way to present your projects and interests to a global audience. Utilizing GitHub Pages, you can host your site directly from a GitHub repository, offering a no-cost solution with the robust infrastructure of GitHub. This approach is not only economical but also integrates seamlessly with your development workflow.
+⚙️By automating the deployment process, GitHub Actions offers another degree of efficiency.">
+<meta name="author" content=" Efesoy ">
+<link rel="canonical" href="https://tbakie.github.io/deneme/post/04/fourth/">
+<link crossorigin="anonymous" href="/deneme/assets/css/stylesheet.5cfc680b1eeaeef9efbced92d46c2a9e876b72ee14fba85846afc4cff9e6e6f8.css" integrity="sha256-XPxoCx7q7vnvvO2S1Gwqnodrcu4U&#43;6hYRq/Ez/nm5vg=" rel="preload stylesheet" as="style">
+<script defer crossorigin="anonymous" src="/deneme/assets/js/highlight.f413e19d0714851f6474e7ee9632408e58ac146fbdbe62747134bea2fa3415e0.js" integrity="sha256-9BPhnQcUhR9kdOfuljJAjlisFG&#43;9vmJ0cTS&#43;ovo0FeA="
+    onload="hljs.initHighlightingOnLoad();"></script>
+<link rel="icon" href="https://tbakie.github.io/deneme/favicon.ico">
+<link rel="icon" type="image/png" sizes="16x16" href="https://tbakie.github.io/deneme/favicon-16x16.png">
+<link rel="icon" type="image/png" sizes="32x32" href="https://tbakie.github.io/deneme/favicon-32x32.png">
+<link rel="apple-touch-icon" href="https://tbakie.github.io/deneme/apple-touch-icon.png">
+<link rel="mask-icon" href="https://tbakie.github.io/deneme/safari-pinned-tab.svg">
+<meta name="theme-color" content="#2e2e33">
+<meta name="msapplication-TileColor" content="#2e2e33">
+<noscript>
+    <style>
+        #theme-toggle,
+        .top-link {
+            display: none;
+        }
+
+    </style>
+    <style>
+        @media (prefers-color-scheme: dark) {
+            :root {
+                --theme: rgb(29, 30, 32);
+                --entry: rgb(46, 46, 51);
+                --primary: rgb(218, 218, 219);
+                --secondary: rgb(155, 156, 157);
+                --tertiary: rgb(65, 66, 68);
+                --content: rgb(196, 196, 197);
+                --hljs-bg: rgb(46, 46, 51);
+                --code-bg: rgb(55, 56, 62);
+                --border: rgb(51, 51, 51);
+            }
+
+            .list {
+                background: var(--theme);
+            }
+
+            .list:not(.dark)::-webkit-scrollbar-track {
+                background: 0 0;
+            }
+
+            .list:not(.dark)::-webkit-scrollbar-thumb {
+                border-color: var(--theme);
+            }
+        }
+
+    </style>
+</noscript><meta property="og:title" content="How To Deploy Website In Github" />
+<meta property="og:description" content="Deploying ⚙️ Creating a website on GitHub is an effective and professional way to present your projects and interests to a global audience. Utilizing GitHub Pages, you can host your site directly from a GitHub repository, offering a no-cost solution with the robust infrastructure of GitHub. This approach is not only economical but also integrates seamlessly with your development workflow.
+⚙️By automating the deployment process, GitHub Actions offers another degree of efficiency." />
+<meta property="og:type" content="article" />
+<meta property="og:url" content="https://tbakie.github.io/deneme/post/04/fourth/" />
+<meta property="og:image" content="https://tbakie.github.io/deneme/post/04/4.png" /><meta property="article:section" content="post" />
+<meta property="article:published_time" content="2023-10-17T11:02:08-07:00" />
+<meta property="article:modified_time" content="2023-10-17T11:02:08-07:00" />
+
+<meta name="twitter:card" content="summary_large_image" />
+<meta name="twitter:image" content="https://tbakie.github.io/deneme/post/04/4.png" />
+<meta name="twitter:title" content="How To Deploy Website In Github"/>
+<meta name="twitter:description" content="Deploying ⚙️ Creating a website on GitHub is an effective and professional way to present your projects and interests to a global audience. Utilizing GitHub Pages, you can host your site directly from a GitHub repository, offering a no-cost solution with the robust infrastructure of GitHub. This approach is not only economical but also integrates seamlessly with your development workflow.
+⚙️By automating the deployment process, GitHub Actions offers another degree of efficiency."/>
+
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "BreadcrumbList",
+  "itemListElement": [
+    {
+      "@type": "ListItem",
+      "position":  1 ,
+      "name": "Posts",
+      "item": "https://tbakie.github.io/deneme/post/"
+    }, 
+    {
+      "@type": "ListItem",
+      "position":  2 ,
+      "name": "How To Deploy Website In Github",
+      "item": "https://tbakie.github.io/deneme/post/04/fourth/"
+    }
+  ]
+}
+</script>
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "BlogPosting",
+  "headline": "How To Deploy Website In Github",
+  "name": "How To Deploy Website In Github",
+  "description": "Deploying ⚙️ Creating a website on GitHub is an effective and professional way to present your projects and interests to a global audience. Utilizing GitHub Pages, you can host your site directly from a GitHub repository, offering a no-cost solution with the robust infrastructure of GitHub. This approach is not only economical but also integrates seamlessly with your development workflow.\n⚙️By automating the deployment process, GitHub Actions offers another degree of efficiency.",
+  "keywords": [
+    
+  ],
+  "articleBody": "Deploying ⚙️ Creating a website on GitHub is an effective and professional way to present your projects and interests to a global audience. Utilizing GitHub Pages, you can host your site directly from a GitHub repository, offering a no-cost solution with the robust infrastructure of GitHub. This approach is not only economical but also integrates seamlessly with your development workflow.\n⚙️By automating the deployment process, GitHub Actions offers another degree of efficiency. GitHub Actions may automatically build and deploy your site whenever you make improvements to your repository, ensuring that it always represents your most recent work. This automatic pipeline is essential for keeping a dynamic, up-to-date online presence.\nSteps to Deploy Your Website on GitHub: ⚙️Create a Repository: Start by creating a new repository on GitHub for your website. ⚙️Add Your Website Code: Upload your website’s HTML, CSS, and JavaScript files to the repository. ⚙️Set Up GitHub Actions: Configure GitHub Actions to automate your deployment process. This involves creating a workflow file in your repository. ⚙️Write the Workflow File: In the ‘.github/workflows’ directory, create a new file (e.g., ‘deploy.yml’) and define the deployment steps. Here’s an example workflow for a Hugo-based site: name: Publish to GH Pages on: push: branches: - main pull_request: jobs: deploy: runs-on: ubuntu-latest steps: - name: Checkout source uses: actions/checkout@v3 with: submodules: true - name: Checkout destination uses: actions/checkout@v3 if: github.ref == 'refs/heads/main' with: ref: gh-pages path: built-site - name: Setup Hugo run: | curl -L -o /tmp/hugo.tar.gz 'https://github.com/gohugoio/hugo/releases/download/v0.110.0/hugo_extended_0.110.0_linux-amd64.tar.gz' tar -C ${RUNNER_TEMP} -zxvf /tmp/hugo.tar.gz hugo - name: Build run: ${RUNNER_TEMP}/hugo - name: Deploy if: github.ref == 'refs/heads/main' run: | cp -R public/* ${GITHUB_WORKSPACE}/built-site/ cd ${GITHUB_WORKSPACE}/built-site git add . git config user.name 'tbakie' git config user.email 'tbakiefesoy03@gmail.com' git commit -m 'Updated site' git push ⚙️Enable GitHub Pages: Go to your repository settings, find the GitHub Pages section, and select the branch you want to deploy (typically ‘gh-pages’ or ‘main’). ⚙️Access Your Live Site: Once GitHub Actions completes the deployment, your site will be live at https://{username}.github.io/{repository}. ⚙️Remember, your website’s visibility and success depend on how effectively you manage and update its content. Happy coding!\n⚙️This method is particularly advantageous for static websites, personal or professional blogs, portfolio sites showcasing your work, and documentation for projects or software. It simplifies the process of keeping your content fresh and aligned with your ongoing projects or evolving portfolio, making it an excellent choice for developers, creatives, and professionals looking to establish a strong online presence.\n",
+  "wordCount" : "406",
+  "inLanguage": "en",
+  "image":"https://tbakie.github.io/deneme/post/04/4.png","datePublished": "2023-10-17T11:02:08-07:00",
+  "dateModified": "2023-10-17T11:02:08-07:00",
+  "author":{
+    "@type": "Person",
+    "name": " Efesoy "
+  },
+  "mainEntityOfPage": {
+    "@type": "WebPage",
+    "@id": "https://tbakie.github.io/deneme/post/04/fourth/"
+  },
+  "publisher": {
+    "@type": "Organization",
+    "name": "TBE Website ",
+    "logo": {
+      "@type": "ImageObject",
+      "url": "https://tbakie.github.io/deneme/favicon.ico"
+    }
+  }
+}
+</script>
+</head>
+
+<body class="" id="top">
+<script>
+    if (localStorage.getItem("pref-theme") === "dark") {
+        document.body.classList.add('dark');
+    } else if (localStorage.getItem("pref-theme") === "light") {
+        document.body.classList.remove('dark')
+    } else if (window.matchMedia('(prefers-color-scheme: dark)').matches) {
+        document.body.classList.add('dark');
+    }
+
+</script>
+
+<header class="header">
+    <nav class="nav">
+        <div class="logo">
+            <a href="https://tbakie.github.io/deneme/" accesskey="h" title="TBE Website  (Alt + H)">TBE Website </a>
+            <div class="logo-switches">
+                <button id="theme-toggle" accesskey="t" title="(Alt + T)">
+                    <svg id="moon" xmlns="http://www.w3.org/2000/svg" width="24" height="18" viewBox="0 0 24 24"
+                        fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round"
+                        stroke-linejoin="round">
+                        <path d="M21 12.79A9 9 0 1 1 11.21 3 7 7 0 0 0 21 12.79z"></path>
+                    </svg>
+                    <svg id="sun" xmlns="http://www.w3.org/2000/svg" width="24" height="18" viewBox="0 0 24 24"
+                        fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round"
+                        stroke-linejoin="round">
+                        <circle cx="12" cy="12" r="5"></circle>
+                        <line x1="12" y1="1" x2="12" y2="3"></line>
+                        <line x1="12" y1="21" x2="12" y2="23"></line>
+                        <line x1="4.22" y1="4.22" x2="5.64" y2="5.64"></line>
+                        <line x1="18.36" y1="18.36" x2="19.78" y2="19.78"></line>
+                        <line x1="1" y1="12" x2="3" y2="12"></line>
+                        <line x1="21" y1="12" x2="23" y2="12"></line>
+                        <line x1="4.22" y1="19.78" x2="5.64" y2="18.36"></line>
+                        <line x1="18.36" y1="5.64" x2="19.78" y2="4.22"></line>
+                    </svg>
+                </button>
+            </div>
+        </div>
+        <ul id="menu">
+            <li>
+                <a href="https://tbakie.github.io/deneme/about/" title="About">
+                    <span>About</span>
+                </a>
+            </li>
+            <li>
+                <a href="https://tbakie.github.io/deneme/hobbies/" title="Hobbies">
+                    <span>Hobbies</span>
+                </a>
+            </li>
+            <li>
+                <a href="https://tbakie.github.io/deneme/showcase/" title="Showcase">
+                    <span>Showcase</span>
+                </a>
+            </li>
+            <li>
+                <a href="https://tbakie.github.io/deneme/categories/" title="Categories">
+                    <span>Categories</span>
+                </a>
+            </li>
+            <li>
+                <a href="https://tbakie.github.io/deneme/archives/" title="Archives">
+                    <span>Archives</span>
+                </a>
+            </li>
+            <li>
+                <a href="https://github.com/tbakie" title="Github">
+                    <span>Github</span>&nbsp;
+                    <svg fill="none" shape-rendering="geometricPrecision" stroke="currentColor" stroke-linecap="round"
+                        stroke-linejoin="round" stroke-width="2.5" viewBox="0 0 24 24" height="12" width="12">
+                        <path d="M18 13v6a2 2 0 01-2 2H5a2 2 0 01-2-2V8a2 2 0 012-2h6"></path>
+                        <path d="M15 3h6v6"></path>
+                        <path d="M10 14L21 3"></path>
+                    </svg>
+                </a>
+            </li>
+            <li>
+                <a href="https://www.instagram.com/baki__efe" title="Instagram">
+                    <span>Instagram</span>&nbsp;
+                    <svg fill="none" shape-rendering="geometricPrecision" stroke="currentColor" stroke-linecap="round"
+                        stroke-linejoin="round" stroke-width="2.5" viewBox="0 0 24 24" height="12" width="12">
+                        <path d="M18 13v6a2 2 0 01-2 2H5a2 2 0 01-2-2V8a2 2 0 012-2h6"></path>
+                        <path d="M15 3h6v6"></path>
+                        <path d="M10 14L21 3"></path>
+                    </svg>
+                </a>
+            </li>
+        </ul>
+    </nav>
+</header>
+<main class="main">
+
+<article class="post-single">
+  <header class="post-header">
+    <div class="breadcrumbs"><a href="https://tbakie.github.io/deneme/">Home</a>&nbsp;»&nbsp;<a href="https://tbakie.github.io/deneme/post/">Posts</a></div>
+    <h1 class="post-title">
+      How To Deploy Website In Github
+    </h1>
+    <div class="post-meta"><span title='2023-10-17 11:02:08 -0700 -0700'>October 17, 2023</span>&nbsp;·&nbsp;2 min&nbsp;·&nbsp; Efesoy &nbsp;|&nbsp;<a href="https://github.com/tbakie/post/04/fourth.md" rel="noopener noreferrer" target="_blank">Edit</a>
+
+</div>
+  </header> 
+<figure class="entry-cover"><img loading="lazy" src="https://tbakie.github.io/deneme/post/04/4.png" alt="">
+        
+</figure><div class="toc">
+    <details >
+        <summary accesskey="c" title="(Alt + C)">
+            <span class="details">Table of Contents</span>
+        </summary>
+
+        <div class="inner"><ul>
+                <li>
+                    <a href="#deploying-" aria-label="Deploying ⚙️">Deploying ⚙️</a><ul>
+                        
+                <li>
+                    <a href="#steps-to-deploy-your-website-on-github" aria-label="Steps to Deploy Your Website on GitHub:">Steps to Deploy Your Website on GitHub:</a>
+                </li>
+            </ul>
+            </li>
+            </ul>
+        </div>
+    </details>
+</div>
+
+  <div class="post-content"><h1 id="deploying-">Deploying ⚙️<a hidden class="anchor" aria-hidden="true" href="#deploying-">#</a></h1>
+<p>Creating a website on GitHub is an effective and professional way to present your projects and interests to a global audience. Utilizing GitHub Pages, you can host your site directly from a GitHub repository, offering a no-cost solution with the robust infrastructure of GitHub. This approach is not only economical but also integrates seamlessly with your development workflow.</p>
+<p>⚙️By automating the deployment process, GitHub Actions offers another degree of efficiency. GitHub Actions may automatically build and deploy your site whenever you make improvements to your repository, ensuring that it always represents your most recent work. This automatic pipeline is essential for keeping a dynamic, up-to-date online presence.</p>
+<h2 id="steps-to-deploy-your-website-on-github">Steps to Deploy Your Website on GitHub:<a hidden class="anchor" aria-hidden="true" href="#steps-to-deploy-your-website-on-github">#</a></h2>
+<ul>
+<li>⚙️Create a Repository: Start by creating a new repository on GitHub for your website.</li>
+<li>⚙️Add Your Website Code: Upload your website&rsquo;s HTML, CSS, and JavaScript files to the repository.</li>
+<li>⚙️Set Up GitHub Actions: Configure GitHub Actions to automate your deployment process. This involves creating a workflow file in your repository.</li>
+<li>⚙️Write the Workflow File: In the &lsquo;.github/workflows&rsquo; directory, create a new file (e.g., &lsquo;deploy.yml&rsquo;) and define the deployment steps. Here&rsquo;s an example workflow for a Hugo-based site:</li>
+</ul>
+<div class="highlight"><pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;"><code class="language-css" data-lang="css"><span style="display:flex;"><span><span style="color:#f92672">name</span><span style="color:#f92672">:</span> <span style="color:#f92672">Publish</span> <span style="color:#f92672">to</span> <span style="color:#f92672">GH</span> <span style="color:#f92672">Pages</span>
+</span></span><span style="display:flex;"><span><span style="color:#f92672">on</span><span style="color:#f92672">:</span>
+</span></span><span style="display:flex;"><span>  <span style="color:#f92672">push</span><span style="color:#f92672">:</span>
+</span></span><span style="display:flex;"><span>    <span style="color:#f92672">branches</span><span style="color:#f92672">:</span>
+</span></span><span style="display:flex;"><span>      <span style="color:#f92672">-</span> <span style="color:#f92672">main</span>
+</span></span><span style="display:flex;"><span>  <span style="color:#f92672">pull_request</span><span style="color:#f92672">:</span>
+</span></span><span style="display:flex;"><span>
+</span></span><span style="display:flex;"><span><span style="color:#f92672">jobs</span><span style="color:#f92672">:</span>
+</span></span><span style="display:flex;"><span>  <span style="color:#f92672">deploy</span><span style="color:#f92672">:</span>
+</span></span><span style="display:flex;"><span>    <span style="color:#f92672">runs-on</span><span style="color:#f92672">:</span> <span style="color:#f92672">ubuntu-latest</span>
+</span></span><span style="display:flex;"><span>    <span style="color:#f92672">steps</span><span style="color:#f92672">:</span>
+</span></span><span style="display:flex;"><span>      <span style="color:#f92672">-</span> <span style="color:#f92672">name</span><span style="color:#f92672">:</span> <span style="color:#f92672">Checkout</span> <span style="color:#f92672">source</span>
+</span></span><span style="display:flex;"><span>        <span style="color:#f92672">uses</span><span style="color:#f92672">:</span> <span style="color:#f92672">actions</span><span style="color:#f92672">/</span><span style="color:#f92672">checkout</span>@<span style="color:#66d9ef">v3</span>
+</span></span><span style="display:flex;"><span>        <span style="color:#f92672">with</span><span style="color:#f92672">:</span>
+</span></span><span style="display:flex;"><span>          <span style="color:#f92672">submodules</span><span style="color:#f92672">:</span> <span style="color:#f92672">true</span>
+</span></span><span style="display:flex;"><span>
+</span></span><span style="display:flex;"><span>      <span style="color:#f92672">-</span> <span style="color:#f92672">name</span><span style="color:#f92672">:</span> <span style="color:#f92672">Checkout</span> <span style="color:#f92672">destination</span>
+</span></span><span style="display:flex;"><span>        <span style="color:#f92672">uses</span><span style="color:#f92672">:</span> <span style="color:#f92672">actions</span><span style="color:#f92672">/</span><span style="color:#f92672">checkout</span>@<span style="color:#66d9ef">v3</span>
+</span></span><span style="display:flex;"><span>        <span style="color:#f92672">if</span><span style="color:#f92672">:</span> <span style="color:#f92672">github</span>.<span style="color:#a6e22e">ref</span> <span style="color:#f92672">==</span> <span style="color:#e6db74">&#39;refs/heads/main&#39;</span>
+</span></span><span style="display:flex;"><span>        <span style="color:#f92672">with</span><span style="color:#f92672">:</span>
+</span></span><span style="display:flex;"><span>          <span style="color:#f92672">ref</span><span style="color:#f92672">:</span> <span style="color:#f92672">gh-pages</span>
+</span></span><span style="display:flex;"><span>          <span style="color:#f92672">path</span><span style="color:#f92672">:</span> <span style="color:#f92672">built-site</span>
+</span></span><span style="display:flex;"><span>
+</span></span><span style="display:flex;"><span>      <span style="color:#f92672">-</span> <span style="color:#f92672">name</span><span style="color:#f92672">:</span> <span style="color:#f92672">Setup</span> <span style="color:#f92672">Hugo</span>
+</span></span><span style="display:flex;"><span>        <span style="color:#f92672">run</span><span style="color:#f92672">:</span> <span style="color:#f92672">|</span>
+</span></span><span style="display:flex;"><span>          <span style="color:#f92672">curl</span> <span style="color:#f92672">-L</span> <span style="color:#f92672">-o</span> <span style="color:#f92672">/</span><span style="color:#f92672">tmp</span><span style="color:#f92672">/</span><span style="color:#f92672">hugo</span>.<span style="color:#a6e22e">tar</span>.<span style="color:#a6e22e">gz</span> <span style="color:#e6db74">&#39;https://github.com/gohugoio/hugo/releases/download/v0.110.0/hugo_extended_0.110.0_linux-amd64.tar.gz&#39;</span>
+</span></span><span style="display:flex;"><span>          <span style="color:#f92672">tar</span> <span style="color:#f92672">-C</span> <span style="color:#f92672">$</span>{<span style="color:#f92672">RUNNER_TEMP</span>} <span style="color:#f92672">-zxvf</span> <span style="color:#f92672">/</span><span style="color:#f92672">tmp</span><span style="color:#f92672">/</span><span style="color:#f92672">hugo</span>.<span style="color:#a6e22e">tar</span>.<span style="color:#a6e22e">gz</span> <span style="color:#f92672">hugo</span>          
+</span></span><span style="display:flex;"><span>      <span style="color:#f92672">-</span> <span style="color:#f92672">name</span><span style="color:#f92672">:</span> <span style="color:#f92672">Build</span>
+</span></span><span style="display:flex;"><span>        <span style="color:#f92672">run</span><span style="color:#f92672">:</span> <span style="color:#f92672">$</span>{<span style="color:#f92672">RUNNER_TEMP</span>}<span style="color:#f92672">/</span><span style="color:#f92672">hugo</span>
+</span></span><span style="display:flex;"><span>
+</span></span><span style="display:flex;"><span>      <span style="color:#f92672">-</span> <span style="color:#f92672">name</span><span style="color:#f92672">:</span> <span style="color:#f92672">Deploy</span>
+</span></span><span style="display:flex;"><span>        <span style="color:#f92672">if</span><span style="color:#f92672">:</span> <span style="color:#f92672">github</span>.<span style="color:#a6e22e">ref</span> <span style="color:#f92672">==</span> <span style="color:#e6db74">&#39;refs/heads/main&#39;</span>
+</span></span><span style="display:flex;"><span>        <span style="color:#f92672">run</span><span style="color:#f92672">:</span> <span style="color:#f92672">|</span>
+</span></span><span style="display:flex;"><span>          <span style="color:#f92672">cp</span> <span style="color:#f92672">-R</span> <span style="color:#f92672">public</span><span style="color:#f92672">/*</span> <span style="color:#f92672">$</span>{<span style="color:#960050;background-color:#1e0010">GITHUB_WORKSPACE</span>}<span style="color:#f92672">/</span><span style="color:#f92672">built-site</span><span style="color:#f92672">/</span>
+</span></span><span style="display:flex;"><span>          <span style="color:#f92672">cd</span> <span style="color:#f92672">$</span>{<span style="color:#960050;background-color:#1e0010">GITHUB_WORKSPACE</span>}<span style="color:#f92672">/</span><span style="color:#f92672">built-site</span>
+</span></span><span style="display:flex;"><span>          <span style="color:#f92672">git</span> <span style="color:#f92672">add</span> <span style="color:#f92672">.</span>
+</span></span><span style="display:flex;"><span>          <span style="color:#f92672">git</span> <span style="color:#f92672">config</span> <span style="color:#f92672">user</span>.<span style="color:#a6e22e">name</span> <span style="color:#e6db74">&#39;tbakie&#39;</span>
+</span></span><span style="display:flex;"><span>          <span style="color:#f92672">git</span> <span style="color:#f92672">config</span> <span style="color:#f92672">user</span>.<span style="color:#a6e22e">email</span> <span style="color:#e6db74">&#39;tbakiefesoy03@gmail.com&#39;</span>
+</span></span><span style="display:flex;"><span>          <span style="color:#f92672">git</span> <span style="color:#f92672">commit</span> <span style="color:#f92672">-m</span> <span style="color:#e6db74">&#39;Updated site&#39;</span>
+</span></span><span style="display:flex;"><span>          <span style="color:#f92672">git</span> <span style="color:#f92672">push</span>
+</span></span></code></pre></div><ul>
+<li>⚙️Enable GitHub Pages: Go to your repository settings, find the GitHub Pages section, and select the branch you want to deploy (typically &lsquo;gh-pages&rsquo; or &lsquo;main&rsquo;).</li>
+<li>⚙️Access Your Live Site: Once GitHub Actions completes the deployment, your site will be live at https://{username}.github.io/{repository}.</li>
+</ul>
+<p>⚙️<strong>Remember</strong>, your website&rsquo;s visibility and success depend on how effectively you manage and update its content. Happy coding!</p>
+<p>⚙️This method is particularly advantageous for static websites, personal or professional blogs, portfolio sites showcasing your work, and documentation for projects or software. It simplifies the process of keeping your content fresh and aligned with your ongoing projects or evolving portfolio, making it an excellent choice for developers, creatives, and professionals looking to establish a strong online presence.</p>
+
+
+  </div>
+
+  <footer class="post-footer">
+    <ul class="post-tags">
+    </ul>
+<nav class="paginav">
+  <a class="next" href="https://tbakie.github.io/deneme/post/03/third/">
+    <span class="title">Next »</span>
+    <br>
+    <span>Github as a Hosting Platform</span>
+  </a>
+</nav>
+
+  </footer>
+</article>
+    </main>
+    
+<footer class="footer">
+    <span>&copy; 2023 <a href="https://tbakie.github.io/deneme/">TBE Website </a></span>
+    <span>
+        Powered by
+        <a href="https://gohugo.io/" rel="noopener noreferrer" target="_blank">Hugo</a> &
+        <a href="https://github.com/adityatelange/hugo-PaperMod/" rel="noopener" target="_blank">PaperMod</a>
+    </span>
+</footer>
+<a href="#top" aria-label="go to top" title="Go to Top (Alt + G)" class="top-link" id="top-link" accesskey="g">
+    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 12 6" fill="currentColor">
+        <path d="M12 6H0l6-6z" />
+    </svg>
+</a>
+
+<script>
+    let menu = document.getElementById('menu')
+    if (menu) {
+        menu.scrollLeft = localStorage.getItem("menu-scroll-position");
+        menu.onscroll = function () {
+            localStorage.setItem("menu-scroll-position", menu.scrollLeft);
+        }
+    }
+
+    document.querySelectorAll('a[href^="#"]').forEach(anchor => {
+        anchor.addEventListener("click", function (e) {
+            e.preventDefault();
+            var id = this.getAttribute("href").substr(1);
+            if (!window.matchMedia('(prefers-reduced-motion: reduce)').matches) {
+                document.querySelector(`[id='${decodeURIComponent(id)}']`).scrollIntoView({
+                    behavior: "smooth"
+                });
+            } else {
+                document.querySelector(`[id='${decodeURIComponent(id)}']`).scrollIntoView();
+            }
+            if (id === "top") {
+                history.replaceState(null, null, " ");
+            } else {
+                history.pushState(null, null, `#${id}`);
+            }
+        });
+    });
+
+</script>
+<script>
+    var mybutton = document.getElementById("top-link");
+    window.onscroll = function () {
+        if (document.body.scrollTop > 800 || document.documentElement.scrollTop > 800) {
+            mybutton.style.visibility = "visible";
+            mybutton.style.opacity = "1";
+        } else {
+            mybutton.style.visibility = "hidden";
+            mybutton.style.opacity = "0";
+        }
+    };
+
+</script>
+<script>
+    document.getElementById("theme-toggle").addEventListener("click", () => {
+        if (document.body.className.includes("dark")) {
+            document.body.classList.remove('dark');
+            localStorage.setItem("pref-theme", 'light');
+        } else {
+            document.body.classList.add('dark');
+            localStorage.setItem("pref-theme", 'dark');
+        }
+    })
+
+</script>
+<script>
+    document.querySelectorAll('pre > code').forEach((codeblock) => {
+        const container = codeblock.parentNode.parentNode;
+
+        const copybutton = document.createElement('button');
+        copybutton.classList.add('copy-code');
+        copybutton.innerHTML = 'copy';
+
+        function copyingDone() {
+            copybutton.innerHTML = 'copied!';
+            setTimeout(() => {
+                copybutton.innerHTML = 'copy';
+            }, 2000);
+        }
+
+        copybutton.addEventListener('click', (cb) => {
+            if ('clipboard' in navigator) {
+                navigator.clipboard.writeText(codeblock.textContent);
+                copyingDone();
+                return;
+            }
+
+            const range = document.createRange();
+            range.selectNodeContents(codeblock);
+            const selection = window.getSelection();
+            selection.removeAllRanges();
+            selection.addRange(range);
+            try {
+                document.execCommand('copy');
+                copyingDone();
+            } catch (e) { };
+            selection.removeRange(range);
+        });
+
+        if (container.classList.contains("highlight")) {
+            container.appendChild(copybutton);
+        } else if (container.parentNode.firstChild == container) {
+            
+        } else if (codeblock.parentNode.parentNode.parentNode.parentNode.parentNode.nodeName == "TABLE") {
+            
+            codeblock.parentNode.parentNode.parentNode.parentNode.parentNode.appendChild(copybutton);
+        } else {
+            
+            codeblock.parentNode.appendChild(copybutton);
+        }
+    });
+</script>
+</body>
+
+</html>

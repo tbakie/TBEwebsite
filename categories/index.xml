@@ -11,13 +11,22 @@
     </image>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 16 Oct 2023 11:02:08 -0700</lastBuildDate><atom:link href="https://tbakie.github.io/deneme/categories/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 17 Oct 2023 11:02:08 -0700</lastBuildDate><atom:link href="https://tbakie.github.io/deneme/categories/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Github</title>
       <link>https://tbakie.github.io/deneme/categories/github/</link>
-      <pubDate>Mon, 16 Oct 2023 11:02:08 -0700</pubDate>
+      <pubDate>Tue, 17 Oct 2023 11:02:08 -0700</pubDate>
       
       <guid>https://tbakie.github.io/deneme/categories/github/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Website</title>
+      <link>https://tbakie.github.io/deneme/categories/website/</link>
+      <pubDate>Tue, 17 Oct 2023 11:02:08 -0700</pubDate>
+      
+      <guid>https://tbakie.github.io/deneme/categories/website/</guid>
       <description></description>
     </item>
     
