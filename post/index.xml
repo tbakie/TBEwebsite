@@ -11,7 +11,17 @@
     </image>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 17 Oct 2023 11:02:08 -0700</lastBuildDate><atom:link href="https://tbakie.github.io/deneme/post/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 18 Oct 2023 11:02:08 -0700</lastBuildDate><atom:link href="https://tbakie.github.io/deneme/post/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Markdown Your Code on a Hugo Website</title>
+      <link>https://tbakie.github.io/deneme/post/05/fifth/</link>
+      <pubDate>Wed, 18 Oct 2023 11:02:08 -0700</pubDate>
+      
+      <guid>https://tbakie.github.io/deneme/post/05/fifth/</guid>
+      <description>📌Incorporating code snippets into your Hugo website can greatly enhance its functionality and appeal, especially if you&amp;rsquo;re showcasing your programming projects. Markdown, a lightweight markup language, offers an easy way to format text and code for web pages. For example, in a Hugo site&amp;rsquo;s showcase section, you can display Java code neatly formatted for readability. Here&amp;rsquo;s how:
+📌Open Your Markdown File: Navigate to the Markdown file where you want to include your code snippet in your Hugo site&amp;rsquo;s content folder.</description>
+    </item>
+    
     <item>
       <title>How To Deploy Website In Github</title>
       <link>https://tbakie.github.io/deneme/post/04/fourth/</link>
