@@ -30,4 +30,4 @@ public class TodoListManager {
 
 **Remember**, correctly marking down your code not only makes it more readable but also enhances the overall user experience on your website.
 
-For a live example, check out the code snippet in my website's showcase section: **[Showcase](http://localhost:1313/deneme/showcase/)**
+For a live example, check out the code snippet in my website's showcase section: **[Showcase](https://tbakie.github.io/deneme/showcase/)**
