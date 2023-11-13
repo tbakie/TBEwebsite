@@ -3,7 +3,7 @@ title: "Markdown Your Code on a Hugo Website"
 date: "2023-10-18T11:02:08-07:00"
 author: " Efesoy "
 draft: false
-categories: ["Hugo"]
+categories: ["Hugo", "Markdown"]
 cover:
     image: post/05/5.webp
 
