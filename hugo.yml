@@ -73,8 +73,8 @@ params:
         buttons:
             - name: About
               url: about/
-            - name: Tags
-              url: tags
+            - name: Categories
+              url: categories/
             - name: Showcsae
               url: showcase/
 

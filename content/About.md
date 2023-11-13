@@ -2,9 +2,7 @@
 title: "About"
 date: "2023-10-16T11:02:08-07:00"
 author: " Efesoy "
-cover:
-    image: post/resim1.jpg
-   
+imageUrl: "resim2.jpg"
 
 ---
 
