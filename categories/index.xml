@@ -2,49 +2,49 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Categories on TBE Website </title>
-    <link>https://tbakie.github.io/deneme/categories/</link>
+    <link>https://tbakie.github.io/TBEwebsite/categories/</link>
     <description>Recent content in Categories on TBE Website </description>
     <image>
       <title>TBE Website </title>
-      <url>https://tbakie.github.io/deneme/papermod-cover.png</url>
-      <link>https://tbakie.github.io/deneme/papermod-cover.png</link>
+      <url>https://tbakie.github.io/TBEwebsite/papermod-cover.png</url>
+      <link>https://tbakie.github.io/TBEwebsite/papermod-cover.png</link>
     </image>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 18 Oct 2023 11:02:08 -0700</lastBuildDate><atom:link href="https://tbakie.github.io/deneme/categories/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 18 Oct 2023 11:02:08 -0700</lastBuildDate><atom:link href="https://tbakie.github.io/TBEwebsite/categories/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Hugo</title>
-      <link>https://tbakie.github.io/deneme/categories/hugo/</link>
+      <link>https://tbakie.github.io/TBEwebsite/categories/hugo/</link>
       <pubDate>Wed, 18 Oct 2023 11:02:08 -0700</pubDate>
       
-      <guid>https://tbakie.github.io/deneme/categories/hugo/</guid>
+      <guid>https://tbakie.github.io/TBEwebsite/categories/hugo/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Markdown</title>
-      <link>https://tbakie.github.io/deneme/categories/markdown/</link>
+      <link>https://tbakie.github.io/TBEwebsite/categories/markdown/</link>
       <pubDate>Wed, 18 Oct 2023 11:02:08 -0700</pubDate>
       
-      <guid>https://tbakie.github.io/deneme/categories/markdown/</guid>
+      <guid>https://tbakie.github.io/TBEwebsite/categories/markdown/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Github</title>
-      <link>https://tbakie.github.io/deneme/categories/github/</link>
+      <link>https://tbakie.github.io/TBEwebsite/categories/github/</link>
       <pubDate>Tue, 17 Oct 2023 11:02:08 -0700</pubDate>
       
-      <guid>https://tbakie.github.io/deneme/categories/github/</guid>
+      <guid>https://tbakie.github.io/TBEwebsite/categories/github/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Website</title>
-      <link>https://tbakie.github.io/deneme/categories/website/</link>
+      <link>https://tbakie.github.io/TBEwebsite/categories/website/</link>
       <pubDate>Tue, 17 Oct 2023 11:02:08 -0700</pubDate>
       
-      <guid>https://tbakie.github.io/deneme/categories/website/</guid>
+      <guid>https://tbakie.github.io/TBEwebsite/categories/website/</guid>
       <description></description>
     </item>
     

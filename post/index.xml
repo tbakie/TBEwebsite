@@ -2,32 +2,32 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Posts on TBE Website </title>
-    <link>https://tbakie.github.io/deneme/post/</link>
+    <link>https://tbakie.github.io/TBEwebsite/post/</link>
     <description>Recent content in Posts on TBE Website </description>
     <image>
       <title>TBE Website </title>
-      <url>https://tbakie.github.io/deneme/papermod-cover.png</url>
-      <link>https://tbakie.github.io/deneme/papermod-cover.png</link>
+      <url>https://tbakie.github.io/TBEwebsite/papermod-cover.png</url>
+      <link>https://tbakie.github.io/TBEwebsite/papermod-cover.png</link>
     </image>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 18 Oct 2023 11:02:08 -0700</lastBuildDate><atom:link href="https://tbakie.github.io/deneme/post/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 18 Oct 2023 11:02:08 -0700</lastBuildDate><atom:link href="https://tbakie.github.io/TBEwebsite/post/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Markdown Your Code on a Hugo Website</title>
-      <link>https://tbakie.github.io/deneme/post/05/fifth/</link>
+      <link>https://tbakie.github.io/TBEwebsite/post/05/fifth/</link>
       <pubDate>Wed, 18 Oct 2023 11:02:08 -0700</pubDate>
       
-      <guid>https://tbakie.github.io/deneme/post/05/fifth/</guid>
+      <guid>https://tbakie.github.io/TBEwebsite/post/05/fifth/</guid>
       <description>📌Incorporating code snippets into your Hugo website can greatly enhance its functionality and appeal, especially if you&amp;rsquo;re showcasing your programming projects. Markdown, a lightweight markup language, offers an easy way to format text and code for web pages. For example, in a Hugo site&amp;rsquo;s showcase section, you can display Java code neatly formatted for readability. Here&amp;rsquo;s how:
 📌Open Your Markdown File: Navigate to the Markdown file where you want to include your code snippet in your Hugo site&amp;rsquo;s content folder.</description>
     </item>
     
     <item>
       <title>Understanding Markdown</title>
-      <link>https://tbakie.github.io/deneme/post/06/sixth/</link>
+      <link>https://tbakie.github.io/TBEwebsite/post/06/sixth/</link>
       <pubDate>Wed, 18 Oct 2023 11:02:08 -0700</pubDate>
       
-      <guid>https://tbakie.github.io/deneme/post/06/sixth/</guid>
+      <guid>https://tbakie.github.io/TBEwebsite/post/06/sixth/</guid>
       <description>Markdown🌍 is a lightweight markup language that you can use to add formatting elements to plain text. The markdown syntax was created by John Gruber of Daring Fireball in 2004 to make text as readable as possible. Markdown is one of the most popular markup languages and has a loyal fanbase.
 Markdown as a bridge between plain text and HTML
 🌍There are several reasons for this strong devotion. The first is that Markdown has always been a power-user tool.</description>
@@ -35,39 +35,39 @@ Markdown as a bridge between plain text and HTML
     
     <item>
       <title>How To Deploy Website In Github</title>
-      <link>https://tbakie.github.io/deneme/post/04/fourth/</link>
+      <link>https://tbakie.github.io/TBEwebsite/post/04/fourth/</link>
       <pubDate>Tue, 17 Oct 2023 11:02:08 -0700</pubDate>
       
-      <guid>https://tbakie.github.io/deneme/post/04/fourth/</guid>
+      <guid>https://tbakie.github.io/TBEwebsite/post/04/fourth/</guid>
       <description>Deploying ⚙️ Creating a website on GitHub is an effective and professional way to present your projects and interests to a global audience. Utilizing GitHub Pages, you can host your site directly from a GitHub repository, offering a no-cost solution with the robust infrastructure of GitHub. This approach is not only economical but also integrates seamlessly with your development workflow.
 ⚙️By automating the deployment process, GitHub Actions offers another degree of efficiency.</description>
     </item>
     
     <item>
       <title>Github as a Hosting Platform</title>
-      <link>https://tbakie.github.io/deneme/post/03/third/</link>
+      <link>https://tbakie.github.io/TBEwebsite/post/03/third/</link>
       <pubDate>Mon, 16 Oct 2023 11:02:08 -0700</pubDate>
       
-      <guid>https://tbakie.github.io/deneme/post/03/third/</guid>
+      <guid>https://tbakie.github.io/TBEwebsite/post/03/third/</guid>
       <description>❤️GitHub: The Premier Platform for Code Hosting and Collaboration 👉GitHub is generally acknowledged as a primary center for coding initiatives, with a focus on hosting, saving, and modifying code. GitHub, which is popular for source code management, provides powerful version control and collaboration tools. It is a popular platform for hosting tiny websites, project management, and team collaboration among both people and corporations. GitHub&amp;rsquo;s heart is in its &amp;ldquo;Repositories,&amp;rdquo; which are specialized locations for organizing code for specific projects.</description>
     </item>
     
     <item>
       <title>How do I iteratively develop my website?</title>
-      <link>https://tbakie.github.io/deneme/post/02/second/</link>
+      <link>https://tbakie.github.io/TBEwebsite/post/02/second/</link>
       <pubDate>Mon, 16 Oct 2023 11:02:08 -0700</pubDate>
       
-      <guid>https://tbakie.github.io/deneme/post/02/second/</guid>
+      <guid>https://tbakie.github.io/TBEwebsite/post/02/second/</guid>
       <description>To iteratively develop 🦾a Hugo static website and see changes on the spot, you can use Hugo&amp;rsquo;s built-in local server which live reloads as you make changes to your site. Here&amp;rsquo;s a step-by-step guide:
 Install Hugo on your local machine. Navigate to your Hugo site directory via the command line. Run hugo server in the command line. This command starts a local web server and auto-regenerates your site whenever you make changes to the content.</description>
     </item>
     
     <item>
       <title>What is Hugo?</title>
-      <link>https://tbakie.github.io/deneme/post/01/first/</link>
+      <link>https://tbakie.github.io/TBEwebsite/post/01/first/</link>
       <pubDate>Mon, 16 Oct 2023 11:02:08 -0700</pubDate>
       
-      <guid>https://tbakie.github.io/deneme/post/01/first/</guid>
+      <guid>https://tbakie.github.io/TBEwebsite/post/01/first/</guid>
       <description>Hugo is a popular open-source static site generator that is used to build websites quickly and efficiently. Unlike systems that dynamically build a page with each visitor request, Hugo generates pages when you create or update your content. It converts your content into plain HTML files, providing reusable components and a convenient standard file structure​​​​​​.
 A static website is one where the content is fixed and the same for every user, and is stored on the server as plain HTML files.</description>
     </item>

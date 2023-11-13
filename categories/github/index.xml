@@ -2,32 +2,32 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Github on TBE Website </title>
-    <link>https://tbakie.github.io/deneme/categories/github/</link>
+    <link>https://tbakie.github.io/TBEwebsite/categories/github/</link>
     <description>Recent content in Github on TBE Website </description>
     <image>
       <title>TBE Website </title>
-      <url>https://tbakie.github.io/deneme/papermod-cover.png</url>
-      <link>https://tbakie.github.io/deneme/papermod-cover.png</link>
+      <url>https://tbakie.github.io/TBEwebsite/papermod-cover.png</url>
+      <link>https://tbakie.github.io/TBEwebsite/papermod-cover.png</link>
     </image>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 17 Oct 2023 11:02:08 -0700</lastBuildDate><atom:link href="https://tbakie.github.io/deneme/categories/github/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 17 Oct 2023 11:02:08 -0700</lastBuildDate><atom:link href="https://tbakie.github.io/TBEwebsite/categories/github/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>How To Deploy Website In Github</title>
-      <link>https://tbakie.github.io/deneme/post/04/fourth/</link>
+      <link>https://tbakie.github.io/TBEwebsite/post/04/fourth/</link>
       <pubDate>Tue, 17 Oct 2023 11:02:08 -0700</pubDate>
       
-      <guid>https://tbakie.github.io/deneme/post/04/fourth/</guid>
+      <guid>https://tbakie.github.io/TBEwebsite/post/04/fourth/</guid>
       <description>Deploying ⚙️ Creating a website on GitHub is an effective and professional way to present your projects and interests to a global audience. Utilizing GitHub Pages, you can host your site directly from a GitHub repository, offering a no-cost solution with the robust infrastructure of GitHub. This approach is not only economical but also integrates seamlessly with your development workflow.
 ⚙️By automating the deployment process, GitHub Actions offers another degree of efficiency.</description>
     </item>
     
     <item>
       <title>Github as a Hosting Platform</title>
-      <link>https://tbakie.github.io/deneme/post/03/third/</link>
+      <link>https://tbakie.github.io/TBEwebsite/post/03/third/</link>
       <pubDate>Mon, 16 Oct 2023 11:02:08 -0700</pubDate>
       
-      <guid>https://tbakie.github.io/deneme/post/03/third/</guid>
+      <guid>https://tbakie.github.io/TBEwebsite/post/03/third/</guid>
       <description>❤️GitHub: The Premier Platform for Code Hosting and Collaboration 👉GitHub is generally acknowledged as a primary center for coding initiatives, with a focus on hosting, saving, and modifying code. GitHub, which is popular for source code management, provides powerful version control and collaboration tools. It is a popular platform for hosting tiny websites, project management, and team collaboration among both people and corporations. GitHub&amp;rsquo;s heart is in its &amp;ldquo;Repositories,&amp;rdquo; which are specialized locations for organizing code for specific projects.</description>
     </item>
     
