@@ -22,6 +22,16 @@
     </item>
     
     <item>
+      <title>Top-Paying Software Engineering Roles for Early Career Professionals</title>
+      <link>https://tbakie.github.io/TBEwebsite/post/08/eight/</link>
+      <pubDate>Thu, 19 Oct 2023 11:02:08 -0700</pubDate>
+      
+      <guid>https://tbakie.github.io/TBEwebsite/post/08/eight/</guid>
+      <description>Navigating the Path to Prosperity: Starting a career in software engineering provides up a plethora of profitable prospects. This article digs into the highest-paying job titles for early-career engineers, offering insight into the possible cash benefits and future opportunities in this dynamic sector.
+Early Career High Earners: Top Software Engineering Roles: Front-End Engineer: Specializing in user interface design and user experience, these professionals ensure the usability and aesthetic appeal of applications.</description>
+    </item>
+    
+    <item>
       <title>Markdown Your Code on a Hugo Website</title>
       <link>https://tbakie.github.io/TBEwebsite/post/05/fifth/</link>
       <pubDate>Wed, 18 Oct 2023 11:02:08 -0700</pubDate>
@@ -79,15 +89,6 @@ Install Hugo on your local machine. Navigate to your Hugo site directory via the
       <guid>https://tbakie.github.io/TBEwebsite/post/01/first/</guid>
       <description>Hugo is a popular open-source static site generator that is used to build websites quickly and efficiently. Unlike systems that dynamically build a page with each visitor request, Hugo generates pages when you create or update your content. It converts your content into plain HTML files, providing reusable components and a convenient standard file structure​​​​​​.
 A static website is one where the content is fixed and the same for every user, and is stored on the server as plain HTML files.</description>
-    </item>
-    
-    <item>
-      <title></title>
-      <link>https://tbakie.github.io/TBEwebsite/post/08/eight/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://tbakie.github.io/TBEwebsite/post/08/eight/</guid>
-      <description></description>
     </item>
     
   </channel>
