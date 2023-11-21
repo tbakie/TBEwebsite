@@ -51,7 +51,7 @@ params:
 
     defaultTheme: auto
     # disableThemeToggle: true
-    ShowShareButtons: false
+    ShowShareButtons: true
     ShowReadingTime: true
     # disableSpecial1stPost: true
     displayFullLangName: true
@@ -83,7 +83,7 @@ params:
         imageUrl: "resim1.jpg"
         Content: >
             ## 🥰I'm thrilled to have you here. 
-
+            
             **On this platform, I share insights and updates about my areas of interest,**
 
             **delving into topics I am passionate about every day.👾**  
@@ -97,6 +97,7 @@ params:
             **giving you a glimpse into my work and what drives me.🧠**
 
             **Thanks for stopping by, and I hope you find something that piques your interest!💘**
+            
             
        
 
