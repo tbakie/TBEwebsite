@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>AI on TBE Website </title>
+    <link>https://tbakie.github.io/TBEwebsite/categories/ai/</link>
+    <description>Recent content in AI on TBE Website </description>
+    <image>
+      <title>TBE Website </title>
+      <url>https://tbakie.github.io/TBEwebsite/papermod-cover.png</url>
+      <link>https://tbakie.github.io/TBEwebsite/papermod-cover.png</link>
+    </image>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 22 Oct 2023 11:02:08 -0700</lastBuildDate><atom:link href="https://tbakie.github.io/TBEwebsite/categories/ai/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Unveiling the World of Artificial Intelligence</title>
+      <link>https://tbakie.github.io/TBEwebsite/post/10/tenth/</link>
+      <pubDate>Sun, 22 Oct 2023 11:02:08 -0700</pubDate>
+      
+      <guid>https://tbakie.github.io/TBEwebsite/post/10/tenth/</guid>
+      <description>Exploring the Journey and Capabilities of AI 🔋In the ever-evolving landscape of technology, Artificial Intelligence (AI) emerges as a cornerstone of innovation and futuristic exploration. Originating from the realms of academic theory and science fiction, AI has made an extraordinary journey into the real world, becoming an integral part of our daily lives and a crucial component in various industries. This remarkable transition from concept to reality is fueled by advancements in computing power, data availability, and breakthroughs in machine learning algorithms.</description>
+    </item>
+    
+  </channel>
+</rss>
