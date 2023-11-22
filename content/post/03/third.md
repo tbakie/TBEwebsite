@@ -1,6 +1,6 @@
 ---
 title: "Github as a Hosting Platform"
-date: "2023-10-16T11:02:08-07:00"
+date: "2023-11-06T11:02:08-07:00"
 author: " Efesoy "
 draft: false
 categories: ["Github"]

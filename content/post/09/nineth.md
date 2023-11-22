@@ -1,6 +1,6 @@
  ---
 title: "Understanding SaaS and Micro Saas"
-date: "2023-10-21T11:02:08-07:00"
+date: "2023-11-17T11:02:08-07:00"
 author: " Efesoy "
 draft: false
 categories: ["Software Engineering"]

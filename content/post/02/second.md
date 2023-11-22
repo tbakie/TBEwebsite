@@ -1,6 +1,6 @@
 ---
 title: "How do I iteratively develop my website?"
-date: "2023-10-16T11:02:08-07:00"
+date: "2023-10-17T11:02:08-07:00"
 author: " Efesoy "
 draft: false
 categories: ["Hugo"]

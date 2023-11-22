@@ -1,6 +1,6 @@
 ---
 title: "How To Deploy Website In Github"
-date: "2023-10-17T11:02:08-07:00"
+date: "2023-11-07T11:02:08-07:00"
 author: " Efesoy "
 draft: false
 categories: ["Github", "Website"]

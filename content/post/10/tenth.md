@@ -1,6 +1,6 @@
  ---
 title: "Unveiling the World of Artificial Intelligence"
-date: "2023-10-22T11:02:08-07:00"
+date: "2023-11-19T11:02:08-07:00"
 author: " Efesoy "
 draft: false
 categories: ["AI"]

@@ -1,6 +1,6 @@
 ---
 title: "Top-Paying Software Engineering Roles for Early Career Professionals"
-date: "2023-10-20T11:02:08-07:00"
+date: "2023-11-15T11:02:08-07:00"
 author: " Efesoy "
 draft: false
 categories: ["Software Engineering"]

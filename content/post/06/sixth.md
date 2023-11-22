@@ -1,6 +1,6 @@
 ---
 title: "Understanding Markdown"
-date: "2023-10-18T11:02:08-07:00"
+date: "2023-11-11T11:02:08-07:00"
 author: " Efesoy "
 draft: false
 categories: ["Markdown"]

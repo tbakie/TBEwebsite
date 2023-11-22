@@ -1,6 +1,6 @@
 ---
 title: "Chrome Extensions"
-date: "2023-10-19T11:02:08-07:00"
+date: "2023-11-13T11:02:08-07:00"
 author: " Efesoy "
 draft: false
 categories: ["Extensions"]

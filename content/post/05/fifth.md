@@ -1,6 +1,6 @@
 ---
 title: "Markdown Your Code on a Hugo Website"
-date: "2023-10-18T11:02:08-07:00"
+date: "2023-11-09T11:02:08-07:00"
 author: " Efesoy "
 draft: false
 categories: ["Hugo", "Markdown"]

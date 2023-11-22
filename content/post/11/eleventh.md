@@ -1,6 +1,6 @@
  ---
 title: "Exploring the Technology Behind Real-Time AI Interaction"
-date: "2023-10-23T11:02:08-07:00"
+date: "2023-11-21T11:02:08-07:00"
 author: " Efesoy "
 draft: false
 categories: ["AI"]
