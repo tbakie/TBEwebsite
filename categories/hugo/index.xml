@@ -11,11 +11,11 @@
     </image>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 18 Oct 2023 11:02:08 -0700</lastBuildDate><atom:link href="https://tbakie.github.io/TBEwebsite/categories/hugo/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 09 Nov 2023 11:02:08 -0700</lastBuildDate><atom:link href="https://tbakie.github.io/TBEwebsite/categories/hugo/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Markdown Your Code on a Hugo Website</title>
       <link>https://tbakie.github.io/TBEwebsite/post/05/fifth/</link>
-      <pubDate>Wed, 18 Oct 2023 11:02:08 -0700</pubDate>
+      <pubDate>Thu, 09 Nov 2023 11:02:08 -0700</pubDate>
       
       <guid>https://tbakie.github.io/TBEwebsite/post/05/fifth/</guid>
       <description>📌Incorporating code snippets into your Hugo website can greatly enhance its functionality and appeal, especially if you&amp;rsquo;re showcasing your programming projects. Markdown, a lightweight markup language, offers an easy way to format text and code for web pages. For example, in a Hugo site&amp;rsquo;s showcase section, you can display Java code neatly formatted for readability. Here&amp;rsquo;s how:
@@ -25,7 +25,7 @@
     <item>
       <title>How do I iteratively develop my website?</title>
       <link>https://tbakie.github.io/TBEwebsite/post/02/second/</link>
-      <pubDate>Mon, 16 Oct 2023 11:02:08 -0700</pubDate>
+      <pubDate>Tue, 17 Oct 2023 11:02:08 -0700</pubDate>
       
       <guid>https://tbakie.github.io/TBEwebsite/post/02/second/</guid>
       <description>To iteratively develop 🦾a Hugo static website and see changes on the spot, you can use Hugo&amp;rsquo;s built-in local server which live reloads as you make changes to your site. Here&amp;rsquo;s a step-by-step guide:
