@@ -11,7 +11,16 @@
     </image>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 21 Nov 2023 11:02:08 -0700</lastBuildDate><atom:link href="https://tbakie.github.io/TBEwebsite/post/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 22 Nov 2023 11:02:08 -0700</lastBuildDate><atom:link href="https://tbakie.github.io/TBEwebsite/post/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title> Navigating the World of Machine Learning</title>
+      <link>https://tbakie.github.io/TBEwebsite/post/12/12/</link>
+      <pubDate>Wed, 22 Nov 2023 11:02:08 -0700</pubDate>
+      
+      <guid>https://tbakie.github.io/TBEwebsite/post/12/12/</guid>
+      <description>Transforming How We Interact with Technology 🚩When we are first born as human beings we know almost nothing, but as the days go by we learn new things and apply them in our lives to build some skills. The same is true for machines, machine learning collects data and statistics from outside and starts to perform given tasks without programming. For example, if you show a computer a picture of a watermelon and an apple and it is programmed to learn, the statistical models in the data will allow it to recognize a watermelon or an apple.</description>
+    </item>
+    
     <item>
       <title>Exploring the Technology Behind Real-Time AI Interaction</title>
       <link>https://tbakie.github.io/TBEwebsite/post/11/eleventh/</link>

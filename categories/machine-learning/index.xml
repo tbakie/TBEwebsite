@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Machine Learning on TBE Website </title>
+    <link>https://tbakie.github.io/TBEwebsite/categories/machine-learning/</link>
+    <description>Recent content in Machine Learning on TBE Website </description>
+    <image>
+      <title>TBE Website </title>
+      <url>https://tbakie.github.io/TBEwebsite/papermod-cover.png</url>
+      <link>https://tbakie.github.io/TBEwebsite/papermod-cover.png</link>
+    </image>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 22 Nov 2023 11:02:08 -0700</lastBuildDate><atom:link href="https://tbakie.github.io/TBEwebsite/categories/machine-learning/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title> Navigating the World of Machine Learning</title>
+      <link>https://tbakie.github.io/TBEwebsite/post/12/12/</link>
+      <pubDate>Wed, 22 Nov 2023 11:02:08 -0700</pubDate>
+      
+      <guid>https://tbakie.github.io/TBEwebsite/post/12/12/</guid>
+      <description>Transforming How We Interact with Technology 🚩When we are first born as human beings we know almost nothing, but as the days go by we learn new things and apply them in our lives to build some skills. The same is true for machines, machine learning collects data and statistics from outside and starts to perform given tasks without programming. For example, if you show a computer a picture of a watermelon and an apple and it is programmed to learn, the statistical models in the data will allow it to recognize a watermelon or an apple.</description>
+    </item>
+    
+  </channel>
+</rss>
