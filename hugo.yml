@@ -40,8 +40,8 @@ languages:
                 
                 - name: Github
                   url: https://github.com/tbakie
-                - name: Instagram
-                  url: https://www.instagram.com/baki__efe
+                - name: Linkedin
+                  url: https://www.linkedin.com/in/tugrul-efesoy/
 
 params:
     env: production # to enable google analytics, opengraph, twitter-cards and schema.
