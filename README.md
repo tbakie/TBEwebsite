@@ -24,3 +24,4 @@
 - How ChatGPT Works
 - Navigating the World of Machine Learning
 - Breaking Down Blockchain
+- Exploring the Metaverse
