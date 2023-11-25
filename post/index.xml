@@ -88,24 +88,24 @@ Early Career High Earners: Top Software Engineering Roles: Front-End Engineer:�
     </item>
     
     <item>
+      <title>Markdown Your Code on a Hugo Website</title>
+      <link>https://tbakie.github.io/TBEwebsite/post/05/fifth/</link>
+      <pubDate>Sat, 11 Nov 2023 11:02:08 -0700</pubDate>
+      
+      <guid>https://tbakie.github.io/TBEwebsite/post/05/fifth/</guid>
+      <description>📌Incorporating code snippets into your Hugo website can greatly enhance its functionality and appeal, especially if you&amp;rsquo;re showcasing your programming projects. Markdown, a lightweight markup language, offers an easy way to format text and code for web pages. For example, in a Hugo site&amp;rsquo;s showcase section, you can display Java code neatly formatted for readability. Here&amp;rsquo;s how:
+📌Open Your Markdown File: Navigate to the Markdown file where you want to include your code snippet in your Hugo site&amp;rsquo;s content folder.</description>
+    </item>
+    
+    <item>
       <title>Understanding Markdown</title>
       <link>https://tbakie.github.io/TBEwebsite/post/06/sixth/</link>
-      <pubDate>Sat, 11 Nov 2023 11:02:08 -0700</pubDate>
+      <pubDate>Thu, 09 Nov 2023 11:02:08 -0700</pubDate>
       
       <guid>https://tbakie.github.io/TBEwebsite/post/06/sixth/</guid>
       <description>Markdown🌍 is a lightweight markup language that you can use to add formatting elements to plain text. The markdown syntax was created by John Gruber of Daring Fireball in 2004 to make text as readable as possible. Markdown is one of the most popular markup languages and has a loyal fanbase.
 Markdown as a bridge between plain text and HTML
 🌍There are several reasons for this strong devotion. The first is that Markdown has always been a power-user tool.</description>
-    </item>
-    
-    <item>
-      <title>Markdown Your Code on a Hugo Website</title>
-      <link>https://tbakie.github.io/TBEwebsite/post/05/fifth/</link>
-      <pubDate>Thu, 09 Nov 2023 11:02:08 -0700</pubDate>
-      
-      <guid>https://tbakie.github.io/TBEwebsite/post/05/fifth/</guid>
-      <description>📌Incorporating code snippets into your Hugo website can greatly enhance its functionality and appeal, especially if you&amp;rsquo;re showcasing your programming projects. Markdown, a lightweight markup language, offers an easy way to format text and code for web pages. For example, in a Hugo site&amp;rsquo;s showcase section, you can display Java code neatly formatted for readability. Here&amp;rsquo;s how:
-📌Open Your Markdown File: Navigate to the Markdown file where you want to include your code snippet in your Hugo site&amp;rsquo;s content folder.</description>
     </item>
     
     <item>
