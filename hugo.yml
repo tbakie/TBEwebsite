@@ -34,8 +34,8 @@ languages:
                   url: categories/
                   weight: 8 
                 - identifier: 
-                  name: Showcase
-                  url: showcase/
+                  name: Leetcode
+                  url: leetcode/
                   weight: 7
                 
                 - name: Github
@@ -75,8 +75,8 @@ params:
               url: about/
             - name: Categories
               url: categories/
-            - name: Showcsae
-              url: showcase/
+            - name: Leetcode
+              url: leetcode/
 
     homeInfoParams:
         Title: "Welcome to my website!🦾"
