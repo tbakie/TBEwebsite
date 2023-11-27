@@ -11,7 +11,18 @@
     </image>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 24 Nov 2023 11:02:08 -0700</lastBuildDate><atom:link href="https://tbakie.github.io/TBEwebsite/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 27 Nov 2023 11:02:08 -0700</lastBuildDate><atom:link href="https://tbakie.github.io/TBEwebsite/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>My Leetcode Process</title>
+      <link>https://tbakie.github.io/TBEwebsite/post/15/15/</link>
+      <pubDate>Mon, 27 Nov 2023 11:02:08 -0700</pubDate>
+      
+      <guid>https://tbakie.github.io/TBEwebsite/post/15/15/</guid>
+      <description>From now on, I will post the interview questions I did here on leetcode and share important information about them here, such as important points I found important, parts I had difficulty with and new things I learned.
+👇You can find these questions on top at leetcode section👇
+Leetcode </description>
+    </item>
+    
     <item>
       <title>Exploring the Metaverse</title>
       <link>https://tbakie.github.io/TBEwebsite/post/14/14/</link>
@@ -156,12 +167,14 @@ Install Hugo on your local machine. Navigate to your Hugo site directory via the
     </item>
     
     <item>
-      <title>Showcase</title>
-      <link>https://tbakie.github.io/TBEwebsite/showcase/</link>
+      <title>LeetCode</title>
+      <link>https://tbakie.github.io/TBEwebsite/leetcode/</link>
       <pubDate>Mon, 16 Oct 2023 11:02:08 -0700</pubDate>
       
-      <guid>https://tbakie.github.io/TBEwebsite/showcase/</guid>
-      <description>In this assessment, I have built a TODO list manager. Productivity tools like TODO lists are becoming increasingly popular and with File I/O and ArrayLists you will be able to build one (and implement one or more features of your choosing!). My TODO list manager will allow a user to add items to a TODO list, mark TODOs as completed and save and load TODOs to and from a file.</description>
+      <guid>https://tbakie.github.io/TBEwebsite/leetcode/</guid>
+      <description>I will post the interview questions I did here on leetcode and share important information about them here, such as important points I found important, parts I had difficulty with and new things I learned.
+Question 1480 Given an array nums. We define a running sum of an array as runningSum[i] = sum(nums[0]…nums[i]) Return the running sum of nums. 👇
+This is a basic beginner question, but one line is important for me, which is nums[i] += nums[i - 1] instead of nums[i] += nums[i + 1] class Solution { public int[] runningSum(int[] nums) { for (int i = 1; i &amp;lt; nums.</description>
     </item>
     
     <item>

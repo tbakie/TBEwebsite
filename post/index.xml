@@ -11,7 +11,18 @@
     </image>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 24 Nov 2023 11:02:08 -0700</lastBuildDate><atom:link href="https://tbakie.github.io/TBEwebsite/post/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 27 Nov 2023 11:02:08 -0700</lastBuildDate><atom:link href="https://tbakie.github.io/TBEwebsite/post/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>My Leetcode Process</title>
+      <link>https://tbakie.github.io/TBEwebsite/post/15/15/</link>
+      <pubDate>Mon, 27 Nov 2023 11:02:08 -0700</pubDate>
+      
+      <guid>https://tbakie.github.io/TBEwebsite/post/15/15/</guid>
+      <description>From now on, I will post the interview questions I did here on leetcode and share important information about them here, such as important points I found important, parts I had difficulty with and new things I learned.
+👇You can find these questions on top at leetcode section👇
+Leetcode </description>
+    </item>
+    
     <item>
       <title>Exploring the Metaverse</title>
       <link>https://tbakie.github.io/TBEwebsite/post/14/14/</link>
