@@ -25,3 +25,8 @@
 - Navigating the World of Machine Learning
 - Breaking Down Blockchain
 - Exploring the Metaverse
+
+## 11/27 Weekly plan:
+- Leetcode
+- Interview questions on leetcode
+  
