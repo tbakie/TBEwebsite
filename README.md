@@ -8,7 +8,7 @@
 - What is Hugo?
 
 ## 11/06 Weekly plan:
--  What is Markdown, and what are its most commonly used features?
+-  What is Markdowns, and what are its most commonly used features?
 -  How To Deploy Website In Github?
 -  How do I iteratively develop my website?
 
