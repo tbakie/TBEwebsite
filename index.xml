@@ -173,8 +173,8 @@ Install Hugo on your local machine. Navigate to your Hugo site directory via the
       
       <guid>https://tbakie.github.io/TBEwebsite/leetcode/</guid>
       <description>I will post the interview questions I did here on leetcode and share important information about them here, such as important points I found important, parts I had difficulty with and new things I learned.
-Question 1480 Given an array nums. We define a running sum of an array as runningSum[i] = sum(nums[0]…nums[i]) Return the running sum of nums. 👇
-This is a basic beginner question, but one line is important for me, which is nums[i] += nums[i - 1] instead of nums[i] += nums[i + 1] class Solution { public int[] runningSum(int[] nums) { for (int i = 1; i &amp;lt; nums.</description>
+Two Sum Given an array of integers nums and an integer target, return indices of the two numbers such that they add up to target. 👇
+The important thing for me is j = i + 1 and nums.</description>
     </item>
     
     <item>
