@@ -8,7 +8,7 @@
 - What is Hugo?
 
 ## 11/06 Weekly plan:
--  What is Markdown, and what are its most commonly used features?
+-  What is Markdowns, and what are its most commonly used features?
 -  How To Deploy Website In Github?
 -  How do I iteratively develop my website?
 
@@ -25,3 +25,8 @@
 - Navigating the World of Machine Learning
 - Breaking Down Blockchain
 - Exploring the Metaverse
+
+## 11/27 Weekly plan:
+- Leetcode
+- Interview questions on leetcode
+  
