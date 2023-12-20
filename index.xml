@@ -173,8 +173,8 @@ Install Hugo on your local machine. Navigate to your Hugo site directory via the
       
       <guid>https://tbakie.github.io/TBEwebsite/leetcode/</guid>
       <description>I will post the interview questions I did here on leetcode and share important information about them here, such as important points I found important, parts I had difficulty with and new things I learned.
-Two Sum Given an array of integers nums and an integer target, return indices of the two numbers such that they add up to target. 👇
-The important thing for me is j = i + 1 and nums.</description>
+Palindrome Number Given an integer x, return true if x is a palindrome(An integer is a palindrome when it reads the same forward and backward.), and false otherwise. 👇
+I wanted to convert this integer to String first, and the most important point is size/2, because if the size is odd, we do not touch the middle number and easily iterate front and back one by one.</description>
     </item>
     
     <item>
