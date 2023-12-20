@@ -7,6 +7,26 @@ author = " Efesoy "
 +++
  I will post the interview questions I did here on **leetcode** and share important information about them here, such as important points I found important, parts I had difficulty with and new things I learned.
 
+## Two Sum
+Given an array of integers nums and an integer target, return indices of the two numbers such that they add up to target.
+👇
+- The important thing for me is **j = i + 1** and **nums.length - 1** therefore i and j will be never equal
+```java
+ class Solution {
+    public int[] twoSum(int[] nums, int target) {
+        
+        for (int i = 0; i < nums.length - 1; i++) {
+            for (int j = i + 1; j < nums.length; j++) {
+                if (nums[i] + nums[j] == target) {
+                    return new int[]{i, j};
+                }
+            }
+        }
+        return new int[]{}; // No solution found
+    }
+}
+```
+
 ## Question 1480
 Given an array nums. We define a running sum of an array as runningSum[i] = sum(nums[0]…nums[i])
 Return the running sum of nums.
