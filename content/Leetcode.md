@@ -44,7 +44,7 @@ Given an array of integers nums and an integer target, return indices of the two
                 }
             }
         }
-        return new int[]{}; // No solution found
+        return new int[]{};
     }
 }
 ```
