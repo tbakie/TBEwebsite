@@ -7,6 +7,28 @@ author = " Efesoy "
 +++
  I will post the interview questions I did here on **leetcode** and share important information about them here, such as important points I found important, parts I had difficulty with and new things I learned.
 
+
+ ## Palindrome Number
+Given an integer x, return true if x is a palindrome(An integer is a palindrome when it reads the same forward and backward.), and false otherwise.
+👇
+- I wanted to convert this integer to String first, and the most important point is **size/2**, because if the size is odd, we do not touch the middle number and easily iterate front and back one by one.
+ ```java
+class Solution {
+    public boolean isPalindrome(int x) {
+        String s = String.valueOf(x);
+        System.out.println(s);
+        int size = s.length();
+
+        for(int i = 0; i < size/2; i++){
+            if(s.charAt(i) != s.charAt(size-i-1)){
+                return false;
+            }
+        }
+        return true; 
+    }
+}
+ ``` 
+
 ## Two Sum
 Given an array of integers nums and an integer target, return indices of the two numbers such that they add up to target.
 👇
