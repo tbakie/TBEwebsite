@@ -23,7 +23,7 @@
 - Unveiling the World of Artificial Intelligence
 - How ChatGPT Works
 - Navigating the World of Machine Learning
-- Breaking Down Blockchain
+- Breaking Down Blockchains
 - Exploring the Metaverse
 
 ## 11/27 Weekly plan:
