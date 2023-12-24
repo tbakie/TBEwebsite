@@ -7,6 +7,46 @@ author = " Efesoy "
 +++
  I will post the interview questions I did here on **leetcode** and share important information about them here, such as important points I found important, parts I had difficulty with and new things I learned.
 
+ ## FIZZ BUZZ
+ Given an integer n, return a string array answer (1-indexed) where:
+answer[i] == "FizzBuzz" if i is divisible by 3 and 5.
+answer[i] == "Fizz" if i is divisible by 3.
+answer[i] == "Buzz" if i is divisible by 5.
+answer[i] == i (as a string) if none of the above conditions are true.
+👇
+- The key of the solving problem is making **divisibleBy3** and **divisibleBy5**
+
+```java
+class Solution {
+    public List<String> fizzBuzz(int n) {
+
+        // ans list
+        List<String> ans = new ArrayList<String>();
+
+        for (int num = 1; num <= n; num++) {
+
+            boolean divisibleBy3 = (num % 3 == 0);
+            boolean divisibleBy5 = (num % 5 == 0);
+
+            if (divisibleBy3 && divisibleBy5) {
+                // Divides by both 3 and 5, add FizzBuzz
+                ans.add("FizzBuzz");
+            } else if (divisibleBy3) {
+                // Divides by 3, add Fizz
+                ans.add("Fizz");
+            } else if (divisibleBy5) {
+                // Divides by 5, add Buzz
+                ans.add("Buzz");
+            } else {
+                // Not divisible by 3 or 5, add the number
+                ans.add(Integer.toString(num));
+            }
+        }
+
+        return ans;
+    }
+}
+```
 
  ## Palindrome Number
 Given an integer x, return true if x is a palindrome(An integer is a palindrome when it reads the same forward and backward.), and false otherwise.
