@@ -7,6 +7,33 @@ author = " Efesoy "
 +++
  I will post the interview questions I did here on **leetcode** and share important information about them here, such as important points I found important, parts I had difficulty with and new things I learned.
 
+ ## Longest Common Prefix
+Write a function to find the longest common prefix string amongst an array of strings.
+If there is no common prefix, return an empty string "".
+👇
+- I actually watched editorial video to get some help, becasue I stucked at how to find common letter, because I was trying to examine the words letter by letter. Moreover I also noticed **strs[index].indexOf(prefix) == 0** means they are same
+ ```java
+class Solution {
+    public String longestCommonPrefix(String[] strs) {
+        if(strs.length == 0){
+            return "";
+        }
+        
+        String prefix = strs[0];
+        for(int index = 1; index < strs.length; index++){
+            while(strs[index].indexOf(prefix) != 0){
+                prefix = prefix.substring(0, prefix.length() - 1);
+                if(prefix.isEmpty()){
+                    return "";
+                }
+            }
+        }
+        
+        return prefix;
+    }
+}
+ ```
+
 ## Roman to Integer
 Roman numerals are usually written largest to smallest from left to right. However, the numeral for four is not IIII. Instead, the number four is written as IV. Because the one is before the five we subtract it making four. The same principle applies to the number nine, which is written as IX.
 👇
