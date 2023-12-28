@@ -7,6 +7,39 @@ author = " Efesoy "
 +++
  I will post the interview questions I did here on **leetcode** and share important information about them here, such as important points I found important, parts I had difficulty with and new things I learned.
 
+## Roman to Integer
+Roman numerals are usually written largest to smallest from left to right. However, the numeral for four is not IIII. Instead, the number four is written as IV. Because the one is before the five we subtract it making four. The same principle applies to the number nine, which is written as IX.
+👇
+- I use map to match character corresponding to the their numbers. The important thing was **m.get(s.charAt(i)) < m.get(s.charAt(i + 1))** Therefore we can get IX as a "9" not "11".
+```java
+class Solution {
+    public int romanToInt(String s) {
+        Map<Character, Integer> m = new HashMap<>();
+        
+        m.put('I', 1);
+        m.put('V', 5);
+        m.put('X', 10);
+        m.put('L', 50);
+        m.put('C', 100);
+        m.put('D', 500);
+        m.put('M', 1000);
+        
+        int ans = 0;
+        
+        for (int i = 0; i < s.length(); i++) {
+            if (i < s.length() - 1 && m.get(s.charAt(i)) < m.get(s.charAt(i + 1))) {
+                ans -= m.get(s.charAt(i));
+            } else {
+                ans += m.get(s.charAt(i));
+            }
+        }
+        
+        return ans;
+    }
+}
+```
+
+
  ## FIZZ BUZZ
  Given an integer n, return a string array answer (1-indexed) where:
 answer[i] == "FizzBuzz" if i is divisible by 3 and 5.
