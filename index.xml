@@ -173,7 +173,7 @@ Install Hugo on your local machine. Navigate to your Hugo site directory via the
       
       <guid>https://tbakie.github.io/TBEwebsite/leetcode/</guid>
       <description>I will post the interview questions I did here on leetcode and share important information about them here, such as important points I found important, parts I had difficulty with and new things I learned.
-FIZZ BUZZ Given an integer n, return a string array answer (1-indexed) where: answer[i] == &amp;ldquo;FizzBuzz&amp;rdquo; if i is divisible by 3 and 5. answer[i] == &amp;ldquo;Fizz&amp;rdquo; if i is divisible by 3. answer[i] == &amp;ldquo;Buzz&amp;rdquo; if i is divisible by 5.</description>
+Roman to Integer Roman numerals are usually written largest to smallest from left to right. However, the numeral for four is not IIII. Instead, the number four is written as IV. Because the one is before the five we subtract it making four.</description>
     </item>
     
     <item>
