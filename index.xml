@@ -173,7 +173,8 @@ Install Hugo on your local machine. Navigate to your Hugo site directory via the
       
       <guid>https://tbakie.github.io/TBEwebsite/leetcode/</guid>
       <description>I will post the interview questions I did here on leetcode and share important information about them here, such as important points I found important, parts I had difficulty with and new things I learned.
-Roman to Integer Roman numerals are usually written largest to smallest from left to right. However, the numeral for four is not IIII. Instead, the number four is written as IV. Because the one is before the five we subtract it making four.</description>
+Longest Common Prefix Write a function to find the longest common prefix string amongst an array of strings. If there is no common prefix, return an empty string &amp;ldquo;&amp;rdquo;. 👇
+I actually watched editorial video to get some help, becasue I stucked at how to find common letter, because I was trying to examine the words letter by letter.</description>
     </item>
     
     <item>
