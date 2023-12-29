@@ -173,8 +173,8 @@ Install Hugo on your local machine. Navigate to your Hugo site directory via the
       
       <guid>https://tbakie.github.io/TBEwebsite/leetcode/</guid>
       <description>I will post the interview questions I did here on leetcode and share important information about them here, such as important points I found important, parts I had difficulty with and new things I learned.
-Longest Common Prefix Write a function to find the longest common prefix string amongst an array of strings. If there is no common prefix, return an empty string &amp;ldquo;&amp;rdquo;. 👇
-I actually watched editorial video to get some help, becasue I stucked at how to find common letter, because I was trying to examine the words letter by letter.</description>
+Valid Parantheses Given a string s containing just the characters &amp;lsquo;(&amp;rsquo;, &amp;lsquo;)&amp;rsquo;, &amp;lsquo;{&amp;rsquo;, &amp;lsquo;}&amp;rsquo;, &amp;lsquo;[&amp;rsquo; and &amp;lsquo;]&amp;rsquo;, determine if the input string is valid. An input string is valid if:
+Open brackets must be closed by the same type of brackets.</description>
     </item>
     
     <item>
