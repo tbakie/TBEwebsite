@@ -7,6 +7,44 @@ author = " Efesoy "
 +++
  I will post the interview questions I did here on **leetcode** and share important information about them here, such as important points I found important, parts I had difficulty with and new things I learned.
 
+## Valid Parantheses
+Given a string s containing just the characters '(', ')', '{', '}', '[' and ']', determine if the input string is valid.
+An input string is valid if:
+- Open brackets must be closed by the same type of brackets.
+- Open brackets must be closed in the correct order.
+- Every close bracket has a corresponding open bracket of the same type.
+👇
+- I was planning to solve this problem with basic for loops and array stuff, but I couldn't :D. The tricky thing was what makes return true? So with trying all conditons if our stack is empty, it's gonna be true, becasue we remove elements if the opening one and closing one matches
+```java
+class Solution {
+    public boolean isValid(String s) {
+        Stack<Character> st=new Stack<Character>();
+        for(int i=0;i<s.length();i++){
+            
+            if(s.charAt(i)=='(' || s.charAt(i)=='{' || s.charAt(i)=='['){
+                st.push(s.charAt(i));
+            }
+            else if(st.empty()){
+                return false;
+            }
+    
+            else if (st.peek() == '{' && s.charAt(i) == '}' ) {
+                st.pop();
+            } else if (st.peek() == '(' && s.charAt(i) == ')' ) {
+                st.pop();
+            } else if (st.peek() == '[' && s.charAt(i) == ']' ) {
+                st.pop();
+            }else{
+                return false;
+            }
+        }
+                
+        
+        return st.isEmpty();
+    }
+}
+```
+
  ## Longest Common Prefix
 Write a function to find the longest common prefix string amongst an array of strings.
 If there is no common prefix, return an empty string "".
