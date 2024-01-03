@@ -7,6 +7,25 @@ author = " Efesoy "
 +++
  I will post the interview questions I did here on **leetcode** and share important information about them here, such as important points I found important, parts I had difficulty with and new things I learned.
 
+## Remove Element
+Given an integer array nums and an integer val, remove all occurrences of val in nums in-place. The order of the elements may be changed. Then return the number of elements in nums which are not equal to val.
+👇
+- When I was trying to solve this problem first time, I went with **nums[i] == val** instead of **nums[i] != val** that's why I couldn't find the correct exit.
+```java
+class Solution {
+    public int removeElement(int[] nums, int val) {
+        int index = 0;
+        for (int i = 0; i < nums.length; i++) {
+            if (nums[i] != val) {
+                nums[index] = nums[i];
+                index++;
+            }
+        }
+        return index;
+    }
+}
+```
+
 ## Valid Parantheses
 Given a string s containing just the characters '(', ')', '{', '}', '[' and ']', determine if the input string is valid.
 An input string is valid if:
