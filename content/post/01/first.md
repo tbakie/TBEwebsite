@@ -24,7 +24,7 @@ Development Experience: Hugo offers features like a watch mode that automaticall
 To create a website using Hugo, you would typically follow these steps:
 
 # Install Hugo: 
-Download and install the Hugo command-line tool on your local machine​​​​. [here](https://gohugo.io/installation/).
-Create a New Hugo Project: Use the hugo new site command in your terminal or command prompt to create a new project​​.
-Customize Your Site: Navigate to the new site folder where you can see different configuration files and folders. You can start customizing your site using these files and also by applying themes​​.
-Preview and Deploy: With Hugo, you can preview your site during the design process and deploy it using various hosting services once it's ready​​!
+- Download and install the Hugo command-line tool on your local machine​​​​. [here](https://gohugo.io/installation/).
+- Create a New Hugo Project: Use the hugo new site command in your terminal or command prompt to create a new project​​.
+- Customize Your Site: Navigate to the new site folder where you can see different configuration files and folders. You can start customizing your site using these files and also by applying themes​​.
+- Preview and Deploy: With Hugo, you can preview your site during the design process and deploy it using various hosting services once it's ready​​!
