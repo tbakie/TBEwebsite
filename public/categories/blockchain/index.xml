@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Blockchain on TBE Website </title>
+    <link>http://localhost:1313/TBEwebsite/categories/blockchain/</link>
+    <description>Recent content in Blockchain on TBE Website </description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <lastBuildDate>Thu, 23 Nov 2023 11:02:08 -0700</lastBuildDate>
+    <atom:link href="http://localhost:1313/TBEwebsite/categories/blockchain/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Breaking Down Blockchain</title>
+      <link>http://localhost:1313/TBEwebsite/post/13/13/</link>
+      <pubDate>Thu, 23 Nov 2023 11:02:08 -0700</pubDate>
+      <guid>http://localhost:1313/TBEwebsite/post/13/13/</guid>
+      <description>&lt;h2 id=&#34;its-way-more-than-just-crypto&#34;&gt;It&amp;rsquo;s Way More Than Just Crypto💰&lt;/h2&gt;&#xA;&lt;p&gt;We&amp;rsquo;ve all heard about Blockchain, right? Mostly in the same sentence with Bitcoin. But let me tell you, Blockchain is a whole universe beyond just cryptocurrency. I’ve spent some time diving into what blockchain really is and why it&amp;rsquo;s such an important. Here&amp;rsquo;s my opinion.&lt;/p&gt;&#xA;&lt;h2 id=&#34;whats-blockchain-anyway&#34;&gt;What&amp;rsquo;s Blockchain Anyway?💰&lt;/h2&gt;&#xA;&lt;p&gt;Consider blockchain to be a digital ledger. However, instead of being centrally managed it is distributed over thousands of computers globally. Each &lt;strong&gt;block&lt;/strong&gt; is a transaction-filled page in this book. When a block is completed, it gets sealed and linked to the one before it to form a chain. What makes it so fantastic is how safe and open it is no one owns it, and everyone can see what&amp;rsquo;s going on.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

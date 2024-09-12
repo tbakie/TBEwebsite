@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Machine Learning on TBE Website </title>
+    <link>http://localhost:1313/TBEwebsite/categories/machine-learning/</link>
+    <description>Recent content in Machine Learning on TBE Website </description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <lastBuildDate>Wed, 22 Nov 2023 11:02:08 -0700</lastBuildDate>
+    <atom:link href="http://localhost:1313/TBEwebsite/categories/machine-learning/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title> Navigating the World of Machine Learning</title>
+      <link>http://localhost:1313/TBEwebsite/post/12/12/</link>
+      <pubDate>Wed, 22 Nov 2023 11:02:08 -0700</pubDate>
+      <guid>http://localhost:1313/TBEwebsite/post/12/12/</guid>
+      <description>&lt;h2 id=&#34;transforming-how-we-interact-with-technology&#34;&gt;Transforming How We Interact with Technology&lt;/h2&gt;&#xA;&lt;p&gt;🚩When we are first born as human beings we know almost nothing, but as the days go by we learn new things and apply them in our lives to build some skills. The same is true for machines, machine learning collects data and statistics from outside and starts to perform given tasks without programming. For example, if you show a computer a picture of a watermelon and an apple and it is programmed to learn, the statistical models in the data will allow it to recognize a watermelon or an apple. The computer will be able to recognize that the watermelon is larger and greener in color and will be able to easily distinguish between watermelon and apple in the future.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

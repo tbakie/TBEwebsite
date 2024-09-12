@@ -29,4 +29,7 @@
 ## 11/27 Weekly plan:
 - Leetcode
 - Interview questions on leetcode
+
+## 09/12 
+- We back! :0
   
