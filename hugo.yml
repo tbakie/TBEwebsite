@@ -79,10 +79,10 @@ params:
               url: leetcode/
 
     homeInfoParams:
-        Title: "Welcome to my website!🦾"
+        Title: "TBE WEBSITE"
         imageUrl: "resim1.jpg"
         Content: >
-            ## I'm thrilled to have you here. 
+            ## Welcome to my personal website. 
             
             **On this platform, I share insights and updates about my areas of interest,**
 
@@ -95,8 +95,6 @@ params:
             **Stay connected and join my journey by following my social media links. Here, you'll also find a showcase of my projects,**
 
             **giving you a glimpse into my work and what drives me.**
-
-            **Thanks for stopping by, and I hope you find something that piques your interest!💘**
             
             
        

@@ -10,7 +10,7 @@ cover:
 ---
 
 ## Hugo 
-is a popular open-source static site generator that is used to build websites quickly and efficiently. Unlike systems that dynamically build a page with each visitor request, Hugo generates pages when you create or update your content. It converts your content into plain HTML files, providing reusable components and a convenient standard file structure​​​​​​.
+is a popular,  open-source static site generator that is used to build websites quickly and efficiently. Unlike systems that dynamically build a page with each visitor request, Hugo generates pages when you create or update your content. It converts your content into plain HTML files, providing reusable components and a convenient standard file structure​​​​​​.
 
 A static website is one where the content is fixed and the same for every user, and is stored on the server as plain HTML files. A dynamic website, on the other hand, generates content in real-time as it is requested by the user, often using server-side scripting languages and databases.
 
