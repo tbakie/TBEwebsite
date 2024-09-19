@@ -52,4 +52,3 @@ connecting with a broad audience and driving ad campaigns or product sales effec
 ## Study Abroad & Research in Italy  Jun 2024 – Aug 2024
 - Explored the connection between food, community, and well-being through immersive farmstays and cultural exchanges. Analyzed the impact of Italian culinary traditions on health, comparing them to U.S. practices for a global health perspective.
 
-![my image](/static/hugo.png)
