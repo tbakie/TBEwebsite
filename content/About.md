@@ -1,5 +1,5 @@
 ---
-title: "About"
+title: "Resume"
 date: "2023-10-16T11:02:08-07:00"
 author: " Efesoy "
 cover:

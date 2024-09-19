@@ -18,8 +18,8 @@ languages:
         menu:
             main:
                 - identifier: 
-                  name: About
-                  url: about/
+                  name: Resume
+                  url: resume/
                   weight: 5
                 - identifier: 
                   name: Archives
@@ -71,8 +71,8 @@ params:
         
         
         buttons:
-            - name: About
-              url: about/
+            - name: Resume
+              url: resume/
             - name: Categories
               url: categories/
             - name: Leetcode
@@ -88,11 +88,11 @@ params:
 
             **You'll also find updates on my interests, where I explore topics I'm passionate about daily, continuously developing my expertise in the engineering fields I aim to specialize in professionally.**
 
-            **                                                                                                      **
+                                                                                                              
 
-            #You can find my resume at [About](/TBEwebsite/about/) page.#
+            **You can find my resume at [Resume](/TBEwebsite/resume/) page.**
 
-            *Stay connected and join my journey by following my social media links.*
+            **Stay connected and join my journey by following my social media links.**
             
             
        
