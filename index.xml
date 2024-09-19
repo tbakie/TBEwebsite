@@ -149,15 +149,6 @@ Install Hugo on your local machine. Navigate to your Hugo site directory via the
     </item>
     
     <item>
-      <title>About</title>
-      <link>https://tbakie.github.io/TBEwebsite/about/</link>
-      <pubDate>Mon, 16 Oct 2023 11:02:08 -0700</pubDate>
-      
-      <guid>https://tbakie.github.io/TBEwebsite/about/</guid>
-      <description>SUMMARY OF QUALIFICATIONS  Electrical and Computer engineering student specializing in Embedded Systems, Machine Learning, Software/Hardware Development and Project Management, with hands-on experience.  Applied programming skills with Java, C++, Python, HTML, and Git, firmware experience in FPGA &amp;amp; PCB projects  Eager to expand knowledge in Machine Learning, Computer Architecture, and Embedded Systems to deliver effective projects.  Founder and President of the Turkish Student Association at University of Washington, member of Theta Delta Chi Fraternity  Influencer on Instagram and TikTok with expertise in advertising and sales across Meta, Google, and Shopify platforms.</description>
-    </item>
-    
-    <item>
       <title>Hobbies</title>
       <link>https://tbakie.github.io/TBEwebsite/hobbies/</link>
       <pubDate>Mon, 16 Oct 2023 11:02:08 -0700</pubDate>
@@ -174,6 +165,15 @@ Install Hugo on your local machine. Navigate to your Hugo site directory via the
       <guid>https://tbakie.github.io/TBEwebsite/leetcode/</guid>
       <description>I will post the interview questions I did here on leetcode and share important information about them here, such as important points I found important, parts I had difficulty with and new things I learned.
 Remove Element Given an integer array nums and an integer val, remove all occurrences of val in nums in-place. The order of the elements may be changed. Then return the number of elements in nums which are not equal to val.</description>
+    </item>
+    
+    <item>
+      <title>Resume</title>
+      <link>https://tbakie.github.io/TBEwebsite/about/</link>
+      <pubDate>Mon, 16 Oct 2023 11:02:08 -0700</pubDate>
+      
+      <guid>https://tbakie.github.io/TBEwebsite/about/</guid>
+      <description>SUMMARY OF QUALIFICATIONS  Electrical and Computer engineering student specializing in Embedded Systems, Machine Learning, Software/Hardware Development and Project Management, with hands-on experience.  Applied programming skills with Java, C++, Python, HTML, and Git, firmware experience in FPGA &amp;amp; PCB projects  Eager to expand knowledge in Machine Learning, Computer Architecture, and Embedded Systems to deliver effective projects.  Founder and President of the Turkish Student Association at University of Washington, member of Theta Delta Chi Fraternity  Influencer on Instagram and TikTok with expertise in advertising and sales across Meta, Google, and Shopify platforms.</description>
     </item>
     
     <item>
