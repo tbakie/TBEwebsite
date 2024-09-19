@@ -26,7 +26,7 @@ Seattle, WA
 - Design Tools: 3D Printing & Design
 
 # EXPERIENCE & PROJECTS
-## Static Website Design (https://tbakie.github.io/TBEwebsite/) Oct 2023 – Present
+## Static Website Design (https://tbakie.github.io/TBEwebsite/)  Oct 2023 – Present
 **Personal Project**
 -  Utilized HTML and JavaScript to create and manage a static website that showcases educational materials on web development.Published more than 15 posts that includes tutorials and tips on creating and improving static websites.
 -  Choose Hugo, a static side generator written in Go, to make an efficient website with fast prototyping capabilities.
@@ -38,16 +38,18 @@ Seattle, WA
 engagement, drive sales, and analyze campaign performance.
 -  Conducted testing to improve service efficiency and performance. Assisted with customer inquiries to enhance service quality and overall user experience.
 -  Worked within a team to create and deploy custom backend code, facilitating effective communication between technical and non-technical stakeholders to meet project objectives.
-## Meta, TikTok and Shopify Advertising/Influencing Dec 2022 – Present
+## Meta, TikTok and Shopify Advertising/Influencing  Dec 2022 – Present
 **Freelance**
 -  Strategically leveraged TikTok, Facebook, and Google advertising platforms to create compelling ad campaigns that effectively reached and engaged target audiences, resulting in increased brand visibility and sales conversions.
 -  Managed an Instagram and Facebook accounts with over 20 million video interactions and a successful TikTok influencer account,
 connecting with a broad audience and driving ad campaigns or product sales effectively.
 
 # LEADERSHIPS & EXTRA CURRICULAR
-## Turkish Association Founder and President Oct 2022 – Present
+## Turkish Association Founder and President  Oct 2022 – Present
 - Led 75+ members in promoting Turkish culture at UW through events and initiatives. Organized fundraising drives to aid communities in Turkey and the US, while managing outreach and collaboration with other campus organizations.
-## Theta Delta Chi (TDX) Fraternity Member. Jul 2023- Present
+## Theta Delta Chi (TDX) Fraternity Member  Jul 2023- Present
 - Active participant in the historic Xi Deuteron Chapter, known for its strong legacy and community involvement. Contributed to impactful programs like Bros United and supported various philanthropic and social initiatives.
-## Study Abroad & Research in Italy Jun 2024 – Aug 2024
-- xplored the connection between food, community, and well-being through immersive farmstays and cultural exchanges. Analyzed the impact of Italian culinary traditions on health, comparing them to U.S. practices for a global health perspective.
+## Study Abroad & Research in Italy  Jun 2024 – Aug 2024
+- Explored the connection between food, community, and well-being through immersive farmstays and cultural exchanges. Analyzed the impact of Italian culinary traditions on health, comparing them to U.S. practices for a global health perspective.
+
+![my image](/resim2.jpg)
