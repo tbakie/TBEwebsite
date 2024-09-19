@@ -84,11 +84,13 @@ params:
         Content: >
             ## Welcome to my personal website. 
             
-            *On this platform, I share my personal projects, research, and the journey through my Electrical and Computer Engineering process.*
+            **On this platform, I share my personal projects, research, and the journey through my Electrical and Computer Engineering process.**
 
-            *You'll also find updates about my areas of interest, where I delve into topics that I'm passionate about every day, blending engineering challenges with creative solutions.*
+            **You'll also find updates on my interests, where I explore topics I'm passionate about daily, continuously developing my expertise in the engineering fields I aim to specialize in professionally.**
 
-            **You can find my resume at [About](/TBEwebsite/about/) page.**
+            **                                                                                                      **
+
+            #You can find my resume at [About](/TBEwebsite/about/) page.#
 
             *Stay connected and join my journey by following my social media links.*
             
