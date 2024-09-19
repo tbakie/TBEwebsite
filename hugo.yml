@@ -26,8 +26,8 @@ languages:
                   url: archives/
                   weight: 9
                 - identifier: 
-                  name: Hobbies
-                  url: hobbies/
+                  name: About
+                  url: about/
                   weight: 6
                 - identifier: categories
                   name: Categories
@@ -88,11 +88,11 @@ params:
 
             **You'll also find updates on my interests, where I explore topics I'm passionate about daily, continuously developing my expertise in the engineering fields I aim to specialize in professionally.**
 
-                                                                                                              
+            **                                                                                         **         
 
-            **You can find my resume at [Resume](/TBEwebsite/resume/) page.**
+            **You can find my resume at [Resume](/TBEwebsite/resume/) page, and stay connected with my journey by following my social media links.**
 
-            **Stay connected and join my journey by following my social media links.**
+           
             
             
        

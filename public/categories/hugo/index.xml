@@ -2,31 +2,31 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Hugo on TBE Website </title>
-    <link>http://localhost:1313/TBEwebsite/categories/hugo/</link>
+    <link>https://tbakie.github.io/TBEwebsite/categories/hugo/</link>
     <description>Recent content in Hugo on TBE Website </description>
     <generator>Hugo</generator>
     <language>en</language>
     <lastBuildDate>Sat, 11 Nov 2023 11:02:08 -0700</lastBuildDate>
-    <atom:link href="http://localhost:1313/TBEwebsite/categories/hugo/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://tbakie.github.io/TBEwebsite/categories/hugo/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Markdown Your Code on a Hugo Website</title>
-      <link>http://localhost:1313/TBEwebsite/post/05/fifth/</link>
+      <link>https://tbakie.github.io/TBEwebsite/post/05/fifth/</link>
       <pubDate>Sat, 11 Nov 2023 11:02:08 -0700</pubDate>
-      <guid>http://localhost:1313/TBEwebsite/post/05/fifth/</guid>
+      <guid>https://tbakie.github.io/TBEwebsite/post/05/fifth/</guid>
       <description>&lt;p&gt;📌Incorporating code snippets into your &lt;strong&gt;Hugo website&lt;/strong&gt; can greatly enhance its functionality and appeal, especially if you&amp;rsquo;re showcasing your programming projects. Markdown, a lightweight markup language, offers an easy way to format text and code for web pages. For example, in a Hugo site&amp;rsquo;s showcase section, you can display Java code neatly formatted for readability. Here&amp;rsquo;s how:&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;📌Open Your Markdown File: Navigate to the Markdown file where you want to include your code snippet in your Hugo site&amp;rsquo;s content folder.&lt;/li&gt;&#xA;&lt;li&gt;📌Insert the Code Block: To display a Java code snippet, wrap your code in triple backticks (```) followed by the language identifier. For Java, it would look like this&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; style=&#34;color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;&#34;&gt;&lt;code class=&#34;language-java&#34; data-lang=&#34;java&#34;&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;(&lt;span style=&#34;color:#960050;background-color:#1e0010&#34;&gt;```&lt;/span&gt;) &lt;span style=&#34;color:#75715e&#34;&gt;// Without parentheses&lt;/span&gt;&#xA;&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;&lt;span style=&#34;color:#75715e&#34;&gt;// Your Java code here&lt;/span&gt;&#xA;&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;(&lt;span style=&#34;color:#960050;background-color:#1e0010&#34;&gt;```&lt;/span&gt;) &lt;span style=&#34;color:#75715e&#34;&gt;// Without parentheses&lt;/span&gt;&#xA;&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;ul&gt;&#xA;&lt;li&gt;📌Add Your Java Code: Inside the backticks, paste your Java code. For instance:&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; style=&#34;color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;&#34;&gt;&lt;code class=&#34;language-java&#34; data-lang=&#34;java&#34;&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;&lt;span style=&#34;color:#f92672&#34;&gt;import&lt;/span&gt; java.util.*;&#xA;&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;&lt;span style=&#34;color:#f92672&#34;&gt;import&lt;/span&gt; java.io.*;&#xA;&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;&#xA;&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;&lt;span style=&#34;color:#66d9ef&#34;&gt;public&lt;/span&gt; &lt;span style=&#34;color:#66d9ef&#34;&gt;class&lt;/span&gt; &lt;span style=&#34;color:#a6e22e&#34;&gt;TodoListManager&lt;/span&gt; {&#xA;&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;    &lt;span style=&#34;color:#75715e&#34;&gt;// Your Java code continues...&lt;/span&gt;&#xA;&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;}&#xA;&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;ul&gt;&#xA;&lt;li&gt;📌Save and Preview: Save the Markdown file and use Hugo&amp;rsquo;s server to preview your website. The Java code should appear properly formatted in the showcase section.&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;&lt;strong&gt;Remember&lt;/strong&gt;, correctly marking down your code not only makes it more readable but also enhances the overall user experience on your website.&lt;/p&gt;</description>
     </item>
     <item>
       <title>How do I iteratively develop my website?</title>
-      <link>http://localhost:1313/TBEwebsite/post/02/second/</link>
+      <link>https://tbakie.github.io/TBEwebsite/post/02/second/</link>
       <pubDate>Tue, 17 Oct 2023 11:02:08 -0700</pubDate>
-      <guid>http://localhost:1313/TBEwebsite/post/02/second/</guid>
+      <guid>https://tbakie.github.io/TBEwebsite/post/02/second/</guid>
       <description>&lt;h2 id=&#34;to-iteratively-develop&#34;&gt;To iteratively develop&lt;/h2&gt;&#xA;&lt;p&gt;🦾a Hugo &lt;strong&gt;static&lt;/strong&gt; website and see changes on the spot, you can use Hugo&amp;rsquo;s built-in local server which live reloads as you make changes to your site. Here&amp;rsquo;s a step-by-step guide:&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Install Hugo on your local machine.&lt;/li&gt;&#xA;&lt;li&gt;Navigate to your Hugo site directory via the command line.&lt;/li&gt;&#xA;&lt;li&gt;Run hugo server in the command line.&lt;/li&gt;&#xA;&lt;li&gt;This command starts a local web server and auto-regenerates your site whenever you make changes to the content.&lt;/li&gt;&#xA;&lt;li&gt;You can now see your changes in real-time by viewing http://localhost:1313 in your web browser.&#xA;As you iterate on your website, you simply edit the files, and the changes will be reflected immediately in your browser, enabling a smooth and rapid development cycle. For a comprehensive guide and documentation, visiting the &lt;a href=&#34;https://gohugo.io/documentation/&#34;&gt;here&lt;/a&gt;   Hugo Documentation can be very helpful!&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
     </item>
     <item>
       <title>What is Hugo?</title>
-      <link>http://localhost:1313/TBEwebsite/post/01/first/</link>
+      <link>https://tbakie.github.io/TBEwebsite/post/01/first/</link>
       <pubDate>Mon, 16 Oct 2023 11:02:08 -0700</pubDate>
-      <guid>http://localhost:1313/TBEwebsite/post/01/first/</guid>
+      <guid>https://tbakie.github.io/TBEwebsite/post/01/first/</guid>
       <description>&lt;h2 id=&#34;hugo&#34;&gt;Hugo&lt;/h2&gt;&#xA;&lt;p&gt;is a popular,  open-source static site generator that is used to build websites quickly and efficiently. Unlike systems that dynamically build a page with each visitor request, Hugo generates pages when you create or update your content. It converts your content into plain HTML files, providing reusable components and a convenient standard file structure​​​​​​.&lt;/p&gt;&#xA;&lt;p&gt;A static website is one where the content is fixed and the same for every user, and is stored on the server as plain HTML files. A dynamic website, on the other hand, generates content in real-time as it is requested by the user, often using server-side scripting languages and databases.&lt;/p&gt;</description>
     </item>
   </channel>

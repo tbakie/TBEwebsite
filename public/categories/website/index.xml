@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Website on TBE Website </title>
-    <link>http://localhost:1313/TBEwebsite/categories/website/</link>
+    <link>https://tbakie.github.io/TBEwebsite/categories/website/</link>
     <description>Recent content in Website on TBE Website </description>
     <generator>Hugo</generator>
     <language>en</language>
     <lastBuildDate>Tue, 07 Nov 2023 11:02:08 -0700</lastBuildDate>
-    <atom:link href="http://localhost:1313/TBEwebsite/categories/website/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://tbakie.github.io/TBEwebsite/categories/website/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>How To Deploy Website In Github</title>
-      <link>http://localhost:1313/TBEwebsite/post/04/fourth/</link>
+      <link>https://tbakie.github.io/TBEwebsite/post/04/fourth/</link>
       <pubDate>Tue, 07 Nov 2023 11:02:08 -0700</pubDate>
-      <guid>http://localhost:1313/TBEwebsite/post/04/fourth/</guid>
+      <guid>https://tbakie.github.io/TBEwebsite/post/04/fourth/</guid>
       <description>&lt;h1 id=&#34;deploying-&#34;&gt;Deploying ⚙️&lt;/h1&gt;&#xA;&lt;p&gt;Creating a website on GitHub is an effective and professional way to present your projects and interests to a global audience. Utilizing GitHub Pages, you can host your site directly from a GitHub repository, offering a no-cost solution with the robust infrastructure of GitHub. This approach is not only economical but also integrates seamlessly with your development workflow.&lt;/p&gt;&#xA;&lt;p&gt;⚙️By automating the deployment process, GitHub Actions offers another degree of efficiency. GitHub Actions may automatically build and deploy your site whenever you make improvements to your repository, ensuring that it always represents your most recent work. This automatic pipeline is essential for keeping a dynamic, up-to-date online presence.&lt;/p&gt;</description>
     </item>
   </channel>

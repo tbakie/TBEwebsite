@@ -2,18 +2,18 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Leetcode on TBE Website </title>
-    <link>http://localhost:1313/TBEwebsite/categories/leetcode/</link>
+    <link>https://tbakie.github.io/TBEwebsite/categories/leetcode/</link>
     <description>Recent content in Leetcode on TBE Website </description>
     <generator>Hugo</generator>
     <language>en</language>
     <lastBuildDate>Mon, 27 Nov 2023 11:02:08 -0700</lastBuildDate>
-    <atom:link href="http://localhost:1313/TBEwebsite/categories/leetcode/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://tbakie.github.io/TBEwebsite/categories/leetcode/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>My Leetcode Process</title>
-      <link>http://localhost:1313/TBEwebsite/post/15/15/</link>
+      <link>https://tbakie.github.io/TBEwebsite/post/15/15/</link>
       <pubDate>Mon, 27 Nov 2023 11:02:08 -0700</pubDate>
-      <guid>http://localhost:1313/TBEwebsite/post/15/15/</guid>
-      <description>&lt;p&gt;From now on, I will post the interview questions I did here on leetcode and share important information about them here, such as important points I found important, parts I had difficulty with and new things I learned.&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;👇You can find these questions on top at leetcode section👇&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;h2 id=&#34;leetcodetbewebsiteleetcode&#34;&gt;&lt;a href=&#34;http://localhost:1313/TBEwebsite/TBEwebsite/leetcode/&#34;&gt;Leetcode&lt;/a&gt;&lt;/h2&gt;</description>
+      <guid>https://tbakie.github.io/TBEwebsite/post/15/15/</guid>
+      <description>&lt;p&gt;From now on, I will post the interview questions I did here on leetcode and share important information about them here, such as important points I found important, parts I had difficulty with and new things I learned.&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;👇You can find these questions on top at leetcode section👇&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;h2 id=&#34;leetcodetbewebsiteleetcode&#34;&gt;&lt;a href=&#34;https://tbakie.github.io/TBEwebsite/TBEwebsite/leetcode/&#34;&gt;Leetcode&lt;/a&gt;&lt;/h2&gt;</description>
     </item>
   </channel>
 </rss>

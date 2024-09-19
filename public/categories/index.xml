@@ -2,94 +2,94 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Categories on TBE Website </title>
-    <link>http://localhost:1313/TBEwebsite/categories/</link>
+    <link>https://tbakie.github.io/TBEwebsite/categories/</link>
     <description>Recent content in Categories on TBE Website </description>
     <generator>Hugo</generator>
     <language>en</language>
     <lastBuildDate>Mon, 27 Nov 2023 11:02:08 -0700</lastBuildDate>
-    <atom:link href="http://localhost:1313/TBEwebsite/categories/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://tbakie.github.io/TBEwebsite/categories/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Interview</title>
-      <link>http://localhost:1313/TBEwebsite/categories/interview/</link>
+      <link>https://tbakie.github.io/TBEwebsite/categories/interview/</link>
       <pubDate>Mon, 27 Nov 2023 11:02:08 -0700</pubDate>
-      <guid>http://localhost:1313/TBEwebsite/categories/interview/</guid>
+      <guid>https://tbakie.github.io/TBEwebsite/categories/interview/</guid>
       <description></description>
     </item>
     <item>
       <title>Leetcode</title>
-      <link>http://localhost:1313/TBEwebsite/categories/leetcode/</link>
+      <link>https://tbakie.github.io/TBEwebsite/categories/leetcode/</link>
       <pubDate>Mon, 27 Nov 2023 11:02:08 -0700</pubDate>
-      <guid>http://localhost:1313/TBEwebsite/categories/leetcode/</guid>
+      <guid>https://tbakie.github.io/TBEwebsite/categories/leetcode/</guid>
       <description></description>
     </item>
     <item>
       <title>Metaverse</title>
-      <link>http://localhost:1313/TBEwebsite/categories/metaverse/</link>
+      <link>https://tbakie.github.io/TBEwebsite/categories/metaverse/</link>
       <pubDate>Fri, 24 Nov 2023 11:02:08 -0700</pubDate>
-      <guid>http://localhost:1313/TBEwebsite/categories/metaverse/</guid>
+      <guid>https://tbakie.github.io/TBEwebsite/categories/metaverse/</guid>
       <description></description>
     </item>
     <item>
       <title>Blockchain</title>
-      <link>http://localhost:1313/TBEwebsite/categories/blockchain/</link>
+      <link>https://tbakie.github.io/TBEwebsite/categories/blockchain/</link>
       <pubDate>Thu, 23 Nov 2023 11:02:08 -0700</pubDate>
-      <guid>http://localhost:1313/TBEwebsite/categories/blockchain/</guid>
+      <guid>https://tbakie.github.io/TBEwebsite/categories/blockchain/</guid>
       <description></description>
     </item>
     <item>
       <title>AI</title>
-      <link>http://localhost:1313/TBEwebsite/categories/ai/</link>
+      <link>https://tbakie.github.io/TBEwebsite/categories/ai/</link>
       <pubDate>Wed, 22 Nov 2023 11:02:08 -0700</pubDate>
-      <guid>http://localhost:1313/TBEwebsite/categories/ai/</guid>
+      <guid>https://tbakie.github.io/TBEwebsite/categories/ai/</guid>
       <description></description>
     </item>
     <item>
       <title>Machine Learning</title>
-      <link>http://localhost:1313/TBEwebsite/categories/machine-learning/</link>
+      <link>https://tbakie.github.io/TBEwebsite/categories/machine-learning/</link>
       <pubDate>Wed, 22 Nov 2023 11:02:08 -0700</pubDate>
-      <guid>http://localhost:1313/TBEwebsite/categories/machine-learning/</guid>
+      <guid>https://tbakie.github.io/TBEwebsite/categories/machine-learning/</guid>
       <description></description>
     </item>
     <item>
       <title>Software Engineering</title>
-      <link>http://localhost:1313/TBEwebsite/categories/software-engineering/</link>
+      <link>https://tbakie.github.io/TBEwebsite/categories/software-engineering/</link>
       <pubDate>Fri, 17 Nov 2023 11:02:08 -0700</pubDate>
-      <guid>http://localhost:1313/TBEwebsite/categories/software-engineering/</guid>
+      <guid>https://tbakie.github.io/TBEwebsite/categories/software-engineering/</guid>
       <description></description>
     </item>
     <item>
       <title>Extensions</title>
-      <link>http://localhost:1313/TBEwebsite/categories/extensions/</link>
+      <link>https://tbakie.github.io/TBEwebsite/categories/extensions/</link>
       <pubDate>Mon, 13 Nov 2023 11:02:08 -0700</pubDate>
-      <guid>http://localhost:1313/TBEwebsite/categories/extensions/</guid>
+      <guid>https://tbakie.github.io/TBEwebsite/categories/extensions/</guid>
       <description></description>
     </item>
     <item>
       <title>Hugo</title>
-      <link>http://localhost:1313/TBEwebsite/categories/hugo/</link>
+      <link>https://tbakie.github.io/TBEwebsite/categories/hugo/</link>
       <pubDate>Sat, 11 Nov 2023 11:02:08 -0700</pubDate>
-      <guid>http://localhost:1313/TBEwebsite/categories/hugo/</guid>
+      <guid>https://tbakie.github.io/TBEwebsite/categories/hugo/</guid>
       <description></description>
     </item>
     <item>
       <title>Markdown</title>
-      <link>http://localhost:1313/TBEwebsite/categories/markdown/</link>
+      <link>https://tbakie.github.io/TBEwebsite/categories/markdown/</link>
       <pubDate>Sat, 11 Nov 2023 11:02:08 -0700</pubDate>
-      <guid>http://localhost:1313/TBEwebsite/categories/markdown/</guid>
+      <guid>https://tbakie.github.io/TBEwebsite/categories/markdown/</guid>
       <description></description>
     </item>
     <item>
       <title>Github</title>
-      <link>http://localhost:1313/TBEwebsite/categories/github/</link>
+      <link>https://tbakie.github.io/TBEwebsite/categories/github/</link>
       <pubDate>Tue, 07 Nov 2023 11:02:08 -0700</pubDate>
-      <guid>http://localhost:1313/TBEwebsite/categories/github/</guid>
+      <guid>https://tbakie.github.io/TBEwebsite/categories/github/</guid>
       <description></description>
     </item>
     <item>
       <title>Website</title>
-      <link>http://localhost:1313/TBEwebsite/categories/website/</link>
+      <link>https://tbakie.github.io/TBEwebsite/categories/website/</link>
       <pubDate>Tue, 07 Nov 2023 11:02:08 -0700</pubDate>
-      <guid>http://localhost:1313/TBEwebsite/categories/website/</guid>
+      <guid>https://tbakie.github.io/TBEwebsite/categories/website/</guid>
       <description></description>
     </item>
   </channel>

@@ -2,31 +2,31 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>AI on TBE Website </title>
-    <link>http://localhost:1313/TBEwebsite/categories/ai/</link>
+    <link>https://tbakie.github.io/TBEwebsite/categories/ai/</link>
     <description>Recent content in AI on TBE Website </description>
     <generator>Hugo</generator>
     <language>en</language>
     <lastBuildDate>Wed, 22 Nov 2023 11:02:08 -0700</lastBuildDate>
-    <atom:link href="http://localhost:1313/TBEwebsite/categories/ai/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://tbakie.github.io/TBEwebsite/categories/ai/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title> Navigating the World of Machine Learning</title>
-      <link>http://localhost:1313/TBEwebsite/post/12/12/</link>
+      <link>https://tbakie.github.io/TBEwebsite/post/12/12/</link>
       <pubDate>Wed, 22 Nov 2023 11:02:08 -0700</pubDate>
-      <guid>http://localhost:1313/TBEwebsite/post/12/12/</guid>
+      <guid>https://tbakie.github.io/TBEwebsite/post/12/12/</guid>
       <description>&lt;h2 id=&#34;transforming-how-we-interact-with-technology&#34;&gt;Transforming How We Interact with Technology&lt;/h2&gt;&#xA;&lt;p&gt;🚩When we are first born as human beings we know almost nothing, but as the days go by we learn new things and apply them in our lives to build some skills. The same is true for machines, machine learning collects data and statistics from outside and starts to perform given tasks without programming. For example, if you show a computer a picture of a watermelon and an apple and it is programmed to learn, the statistical models in the data will allow it to recognize a watermelon or an apple. The computer will be able to recognize that the watermelon is larger and greener in color and will be able to easily distinguish between watermelon and apple in the future.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Exploring the Technology Behind Real-Time AI Interaction</title>
-      <link>http://localhost:1313/TBEwebsite/post/11/eleventh/</link>
+      <link>https://tbakie.github.io/TBEwebsite/post/11/eleventh/</link>
       <pubDate>Tue, 21 Nov 2023 11:02:08 -0700</pubDate>
-      <guid>http://localhost:1313/TBEwebsite/post/11/eleventh/</guid>
+      <guid>https://tbakie.github.io/TBEwebsite/post/11/eleventh/</guid>
       <description>&lt;p&gt;🌌ChatGPT is really an amazing piece of AI technology that OpenAI has come up with. It&amp;rsquo;s like having a conversation with someone who understands and responds super quickly. What makes ChatGPT stand out is how well it gets what we&amp;rsquo;re saying and gives back responses that feel really human. It&amp;rsquo;s all thanks to some smart tech stuff called natural language processing (NLP) and machine learning. In this post, I&amp;rsquo;m going to take you through how ChatGPT works, how it deals with the information we give it, and how it manages to reply so quickly and accurately.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Unveiling the World of Artificial Intelligence</title>
-      <link>http://localhost:1313/TBEwebsite/post/10/tenth/</link>
+      <link>https://tbakie.github.io/TBEwebsite/post/10/tenth/</link>
       <pubDate>Sun, 19 Nov 2023 11:02:08 -0700</pubDate>
-      <guid>http://localhost:1313/TBEwebsite/post/10/tenth/</guid>
+      <guid>https://tbakie.github.io/TBEwebsite/post/10/tenth/</guid>
       <description>&lt;h1 id=&#34;exploring-the-journey-and-capabilities-of-ai&#34;&gt;Exploring the Journey and Capabilities of AI&lt;/h1&gt;&#xA;&lt;p&gt;🔋In the ever-evolving landscape of technology, Artificial Intelligence (AI) emerges as a cornerstone of innovation and futuristic exploration. Originating from the realms of academic theory and science fiction, AI has made an extraordinary journey into the real world, becoming an integral part of our daily lives and a crucial component in various industries. This remarkable transition from concept to reality is fueled by advancements in computing power, data availability, and breakthroughs in machine learning algorithms.&lt;/p&gt;</description>
     </item>
   </channel>
