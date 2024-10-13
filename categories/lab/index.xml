@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>ECE on TBE Website </title>
-    <link>https://tbakie.github.io/TBEwebsite/categories/ece/</link>
-    <description>Recent content in ECE on TBE Website </description>
+    <title>Lab on TBE Website </title>
+    <link>https://tbakie.github.io/TBEwebsite/categories/lab/</link>
+    <description>Recent content in Lab on TBE Website </description>
     <image>
       <title>TBE Website </title>
       <url>https://tbakie.github.io/TBEwebsite/papermod-cover.png</url>
@@ -11,7 +11,7 @@
     </image>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 28 Nov 2023 11:02:08 -0700</lastBuildDate><atom:link href="https://tbakie.github.io/TBEwebsite/categories/ece/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 28 Nov 2023 11:02:08 -0700</lastBuildDate><atom:link href="https://tbakie.github.io/TBEwebsite/categories/lab/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Undergraduate Research Assistant at SEAL Lab</title>
       <link>https://tbakie.github.io/TBEwebsite/post/16/16/</link>
