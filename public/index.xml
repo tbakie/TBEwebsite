@@ -2,143 +2,143 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>TBE Website </title>
-    <link>https://tbakie.github.io/TBEwebsite/</link>
+    <link>http://localhost:1313/TBEwebsite/</link>
     <description>Recent content on TBE Website </description>
     <generator>Hugo</generator>
     <language>en</language>
     <lastBuildDate>Mon, 27 Nov 2023 11:02:08 -0700</lastBuildDate>
-    <atom:link href="https://tbakie.github.io/TBEwebsite/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/TBEwebsite/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>My Leetcode Process</title>
-      <link>https://tbakie.github.io/TBEwebsite/post/15/15/</link>
+      <link>http://localhost:1313/TBEwebsite/post/15/15/</link>
       <pubDate>Mon, 27 Nov 2023 11:02:08 -0700</pubDate>
-      <guid>https://tbakie.github.io/TBEwebsite/post/15/15/</guid>
-      <description>&lt;p&gt;From now on, I will post the interview questions I did here on leetcode and share important information about them here, such as important points I found important, parts I had difficulty with and new things I learned.&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;👇You can find these questions on top at leetcode section👇&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;h2 id=&#34;leetcodetbewebsiteleetcode&#34;&gt;&lt;a href=&#34;https://tbakie.github.io/TBEwebsite/TBEwebsite/leetcode/&#34;&gt;Leetcode&lt;/a&gt;&lt;/h2&gt;</description>
+      <guid>http://localhost:1313/TBEwebsite/post/15/15/</guid>
+      <description>&lt;p&gt;From now on, I will post the interview questions I did here on leetcode and share important information about them here, such as important points I found important, parts I had difficulty with and new things I learned.&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;👇You can find these questions on top at leetcode section👇&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;h2 id=&#34;leetcodetbewebsiteleetcode&#34;&gt;&lt;a href=&#34;http://localhost:1313/TBEwebsite/TBEwebsite/leetcode/&#34;&gt;Leetcode&lt;/a&gt;&lt;/h2&gt;</description>
     </item>
     <item>
       <title>Exploring the Metaverse</title>
-      <link>https://tbakie.github.io/TBEwebsite/post/14/14/</link>
+      <link>http://localhost:1313/TBEwebsite/post/14/14/</link>
       <pubDate>Fri, 24 Nov 2023 11:02:08 -0700</pubDate>
-      <guid>https://tbakie.github.io/TBEwebsite/post/14/14/</guid>
+      <guid>http://localhost:1313/TBEwebsite/post/14/14/</guid>
       <description>&lt;h2 id=&#34;the-next-frontier-in-digital-interaction&#34;&gt;The Next Frontier in Digital Interaction👾&lt;/h2&gt;&#xA;&lt;p&gt;We&amp;rsquo;ve all heard of Metaverse lately, especially with the developments in VR headsets, everyone is interested in it. So what exactly is Metaverse? Metaverse is a virtual reality environment where users can communicate with each other.&#xA;This is a computer generated environment and other participants in the long run will essentially act like a 3D version internet, even if it sounds a little different and unimaginative. But guess what? It&amp;rsquo;s getting real, and it might just be the next big thing we all get into. this is actually a new world that you can chill with friends, work, game, even catch live shows, and you don&amp;rsquo;t even have to step outside your home. That’s what the Metaverse is all about. It&amp;rsquo;s taking the internet to a whole new level, where instead of clicking and scrolling, We&amp;rsquo;ve entered a virtual world that&amp;rsquo;s almost as real as the one outside your window.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Breaking Down Blockchain</title>
-      <link>https://tbakie.github.io/TBEwebsite/post/13/13/</link>
+      <link>http://localhost:1313/TBEwebsite/post/13/13/</link>
       <pubDate>Thu, 23 Nov 2023 11:02:08 -0700</pubDate>
-      <guid>https://tbakie.github.io/TBEwebsite/post/13/13/</guid>
+      <guid>http://localhost:1313/TBEwebsite/post/13/13/</guid>
       <description>&lt;h2 id=&#34;its-way-more-than-just-crypto&#34;&gt;It&amp;rsquo;s Way More Than Just Crypto💰&lt;/h2&gt;&#xA;&lt;p&gt;We&amp;rsquo;ve all heard about Blockchain, right? Mostly in the same sentence with Bitcoin. But let me tell you, Blockchain is a whole universe beyond just cryptocurrency. I’ve spent some time diving into what blockchain really is and why it&amp;rsquo;s such an important. Here&amp;rsquo;s my opinion.&lt;/p&gt;&#xA;&lt;h2 id=&#34;whats-blockchain-anyway&#34;&gt;What&amp;rsquo;s Blockchain Anyway?💰&lt;/h2&gt;&#xA;&lt;p&gt;Consider blockchain to be a digital ledger. However, instead of being centrally managed it is distributed over thousands of computers globally. Each &lt;strong&gt;block&lt;/strong&gt; is a transaction-filled page in this book. When a block is completed, it gets sealed and linked to the one before it to form a chain. What makes it so fantastic is how safe and open it is no one owns it, and everyone can see what&amp;rsquo;s going on.&lt;/p&gt;</description>
     </item>
     <item>
       <title> Navigating the World of Machine Learning</title>
-      <link>https://tbakie.github.io/TBEwebsite/post/12/12/</link>
+      <link>http://localhost:1313/TBEwebsite/post/12/12/</link>
       <pubDate>Wed, 22 Nov 2023 11:02:08 -0700</pubDate>
-      <guid>https://tbakie.github.io/TBEwebsite/post/12/12/</guid>
+      <guid>http://localhost:1313/TBEwebsite/post/12/12/</guid>
       <description>&lt;h2 id=&#34;transforming-how-we-interact-with-technology&#34;&gt;Transforming How We Interact with Technology&lt;/h2&gt;&#xA;&lt;p&gt;🚩When we are first born as human beings we know almost nothing, but as the days go by we learn new things and apply them in our lives to build some skills. The same is true for machines, machine learning collects data and statistics from outside and starts to perform given tasks without programming. For example, if you show a computer a picture of a watermelon and an apple and it is programmed to learn, the statistical models in the data will allow it to recognize a watermelon or an apple. The computer will be able to recognize that the watermelon is larger and greener in color and will be able to easily distinguish between watermelon and apple in the future.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Exploring the Technology Behind Real-Time AI Interaction</title>
-      <link>https://tbakie.github.io/TBEwebsite/post/11/eleventh/</link>
+      <link>http://localhost:1313/TBEwebsite/post/11/eleventh/</link>
       <pubDate>Tue, 21 Nov 2023 11:02:08 -0700</pubDate>
-      <guid>https://tbakie.github.io/TBEwebsite/post/11/eleventh/</guid>
+      <guid>http://localhost:1313/TBEwebsite/post/11/eleventh/</guid>
       <description>&lt;p&gt;🌌ChatGPT is really an amazing piece of AI technology that OpenAI has come up with. It&amp;rsquo;s like having a conversation with someone who understands and responds super quickly. What makes ChatGPT stand out is how well it gets what we&amp;rsquo;re saying and gives back responses that feel really human. It&amp;rsquo;s all thanks to some smart tech stuff called natural language processing (NLP) and machine learning. In this post, I&amp;rsquo;m going to take you through how ChatGPT works, how it deals with the information we give it, and how it manages to reply so quickly and accurately.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Unveiling the World of Artificial Intelligence</title>
-      <link>https://tbakie.github.io/TBEwebsite/post/10/tenth/</link>
+      <link>http://localhost:1313/TBEwebsite/post/10/tenth/</link>
       <pubDate>Sun, 19 Nov 2023 11:02:08 -0700</pubDate>
-      <guid>https://tbakie.github.io/TBEwebsite/post/10/tenth/</guid>
+      <guid>http://localhost:1313/TBEwebsite/post/10/tenth/</guid>
       <description>&lt;h1 id=&#34;exploring-the-journey-and-capabilities-of-ai&#34;&gt;Exploring the Journey and Capabilities of AI&lt;/h1&gt;&#xA;&lt;p&gt;🔋In the ever-evolving landscape of technology, Artificial Intelligence (AI) emerges as a cornerstone of innovation and futuristic exploration. Originating from the realms of academic theory and science fiction, AI has made an extraordinary journey into the real world, becoming an integral part of our daily lives and a crucial component in various industries. This remarkable transition from concept to reality is fueled by advancements in computing power, data availability, and breakthroughs in machine learning algorithms.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Understanding SaaS and Micro Saas</title>
-      <link>https://tbakie.github.io/TBEwebsite/post/09/nineth/</link>
+      <link>http://localhost:1313/TBEwebsite/post/09/nineth/</link>
       <pubDate>Fri, 17 Nov 2023 11:02:08 -0700</pubDate>
-      <guid>https://tbakie.github.io/TBEwebsite/post/09/nineth/</guid>
+      <guid>http://localhost:1313/TBEwebsite/post/09/nineth/</guid>
       <description>&lt;h2 id=&#34;redefining-software-delivery-in-the-modern-age&#34;&gt;Redefining Software Delivery in the Modern Age:🛰️&lt;/h2&gt;&#xA;&lt;p&gt;Software as a Service (SaaS) is a cornerstone of current software delivery in the fast-paced world of technology. Micro SaaS, a minor but significant offshoot, is emerging from this sector. This post looks into the definitions of SaaS and Micro SaaS, as well as the trajectories of successful organizations in both fields.&lt;/p&gt;&#xA;&lt;h2 id=&#34;understanding-software-as-a-service-saas&#34;&gt;Understanding Software as a Service (SaaS)🛰️&lt;/h2&gt;&#xA;&lt;p&gt;Software as a Service, or SaaS, is a software distribution model where applications are hosted by a service provider and made available to users over the internet. This approach allows for ease of access, regular updates, and a subscription-based payment model. SaaS solutions have become integral to business operations, from CRM systems to data analytics platforms.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Top-Paying Software Engineering Roles for Early Career Professionals</title>
-      <link>https://tbakie.github.io/TBEwebsite/post/08/eight/</link>
+      <link>http://localhost:1313/TBEwebsite/post/08/eight/</link>
       <pubDate>Wed, 15 Nov 2023 11:02:08 -0700</pubDate>
-      <guid>https://tbakie.github.io/TBEwebsite/post/08/eight/</guid>
+      <guid>http://localhost:1313/TBEwebsite/post/08/eight/</guid>
       <description>&lt;h2 id=&#34;navigating-the-path-to-prosperity&#34;&gt;Navigating the Path to Prosperity🚀:&lt;/h2&gt;&#xA;&lt;p&gt;Starting a career in software engineering provides up a plethora of profitable prospects. This article digs into the highest-paying job titles for early-career engineers, offering insight into the possible cash benefits and future opportunities in this dynamic sector.&lt;/p&gt;&#xA;&lt;h2 id=&#34;early-career-high-earners-top-software-engineering-roles&#34;&gt;Early Career High Earners: Top Software Engineering Roles:&lt;/h2&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;strong&gt;Front-End Engineer:🚀&lt;/strong&gt; Specializing in user interface design and user experience, these professionals ensure the usability and aesthetic appeal of applications.&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Back-End Engineer:🚀&lt;/strong&gt; Focused on server-side development, these engineers work on databases, scripting, and website architecture.&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Full Stack Engineer:🚀&lt;/strong&gt; Combining front-end and back-end skills, they are versatile and can manage all aspects of web development.&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Data Engineer:🚀&lt;/strong&gt; Specializing in big data, they design, build, and manage data infrastructure systems.&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Software Development Engineer II (SDE II):🚀&lt;/strong&gt; Often a step up from entry-level positions, SDE IIs are expected to have a firmer grasp of coding and system design.&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h2 id=&#34;emerging-fields-and-future-prospects&#34;&gt;Emerging Fields and Future Prospects:&lt;/h2&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;strong&gt;Machine Learning Engineer:🚀&lt;/strong&gt; As AI continues to grow, these professionals are in high demand for their skills in creating algorithms and neural networks.&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;DevOps Engineer:🚀&lt;/strong&gt; These engineers streamline development by unifying software development (Dev) and software operation (Ops).&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Blockchain Engineer:🚀&lt;/strong&gt; With the rise of blockchain technology, these engineers are sought after for their expertise in developing and implementing blockchain-based solutions.&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Cloud Engineer:🚀&lt;/strong&gt; Specializing in cloud computing, these professionals are crucial in the age of remote work and digital transformation.&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h2 id=&#34;skills-and-qualifications-for-success&#34;&gt;Skills and Qualifications for Success:&lt;/h2&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;strong&gt;Proficiency in Programming Languages:🚀&lt;/strong&gt; Knowledge of languages like Java, Python, and JavaScript is fundamental.&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Understanding of Software Development Lifecycles:🚀&lt;/strong&gt; Familiarity with Agile, Scrum, or Waterfall methodologies.&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Problem-Solving Skills:🚀&lt;/strong&gt; The ability to troubleshoot and resolve complex software issues.&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Teamwork and Communication:🚀&lt;/strong&gt; Collaboration with cross-functional teams and effective communication are key.&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h2 id=&#34;where-to-look-for-opportunities&#34;&gt;Where to Look for Opportunities:&lt;/h2&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;strong&gt;Tech Giants and Startups:🚀&lt;/strong&gt; Companies like Google, Amazon, and emerging startups offer exciting roles with competitive salaries.&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Freelancing Platforms:🚀&lt;/strong&gt; Sites like Upwork and Toptal open avenues for diverse projects and networking.&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Professional Networking:🚀&lt;/strong&gt; LinkedIn and industry conferences can be valuable for making connections.&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;The field of software engineering is more than just coding; it is a journey across a terrain rich in different chances and financial benefits. Early career engineers have the opportunity to not only start on a high wage, but also to create the way for a meaningful and lucrative career.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Chrome Extensions</title>
-      <link>https://tbakie.github.io/TBEwebsite/post/07/seventh/</link>
+      <link>http://localhost:1313/TBEwebsite/post/07/seventh/</link>
       <pubDate>Mon, 13 Nov 2023 11:02:08 -0700</pubDate>
-      <guid>https://tbakie.github.io/TBEwebsite/post/07/seventh/</guid>
+      <guid>http://localhost:1313/TBEwebsite/post/07/seventh/</guid>
       <description>&lt;h2 id=&#34;chrome-extensions&#34;&gt;Chrome extensions✅&lt;/h2&gt;&#xA;&lt;p&gt;are like to digital weapons for your web browser. They&amp;rsquo;re modest but powerful tools that allow you to shape and personalize your Google Chrome browsing experience. There&amp;rsquo;s a Chrome extension for everything, whether you want to boost your &lt;strong&gt;productivity&lt;/strong&gt;, improve your online &lt;strong&gt;security&lt;/strong&gt;, or simply make browsing more &lt;strong&gt;enjoyable&lt;/strong&gt;. You may modify how you interact with webpages, streamline processes, and even add new &lt;strong&gt;functionality&lt;/strong&gt; to your browser with these handy add-ons. The possibilities are limitless, and you have the ability to customize Chrome to your exact specifications. It&amp;rsquo;s like having an internet toolbox ready to make your online adventure &lt;strong&gt;easier&lt;/strong&gt; and more &lt;strong&gt;pleasurable&lt;/strong&gt;.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Markdown Your Code on a Hugo Website</title>
-      <link>https://tbakie.github.io/TBEwebsite/post/05/fifth/</link>
+      <link>http://localhost:1313/TBEwebsite/post/05/fifth/</link>
       <pubDate>Sat, 11 Nov 2023 11:02:08 -0700</pubDate>
-      <guid>https://tbakie.github.io/TBEwebsite/post/05/fifth/</guid>
+      <guid>http://localhost:1313/TBEwebsite/post/05/fifth/</guid>
       <description>&lt;p&gt;📌Incorporating code snippets into your &lt;strong&gt;Hugo website&lt;/strong&gt; can greatly enhance its functionality and appeal, especially if you&amp;rsquo;re showcasing your programming projects. Markdown, a lightweight markup language, offers an easy way to format text and code for web pages. For example, in a Hugo site&amp;rsquo;s showcase section, you can display Java code neatly formatted for readability. Here&amp;rsquo;s how:&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;📌Open Your Markdown File: Navigate to the Markdown file where you want to include your code snippet in your Hugo site&amp;rsquo;s content folder.&lt;/li&gt;&#xA;&lt;li&gt;📌Insert the Code Block: To display a Java code snippet, wrap your code in triple backticks (```) followed by the language identifier. For Java, it would look like this&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; style=&#34;color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;&#34;&gt;&lt;code class=&#34;language-java&#34; data-lang=&#34;java&#34;&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;(&lt;span style=&#34;color:#960050;background-color:#1e0010&#34;&gt;```&lt;/span&gt;) &lt;span style=&#34;color:#75715e&#34;&gt;// Without parentheses&lt;/span&gt;&#xA;&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;&lt;span style=&#34;color:#75715e&#34;&gt;// Your Java code here&lt;/span&gt;&#xA;&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;(&lt;span style=&#34;color:#960050;background-color:#1e0010&#34;&gt;```&lt;/span&gt;) &lt;span style=&#34;color:#75715e&#34;&gt;// Without parentheses&lt;/span&gt;&#xA;&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;ul&gt;&#xA;&lt;li&gt;📌Add Your Java Code: Inside the backticks, paste your Java code. For instance:&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; style=&#34;color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;&#34;&gt;&lt;code class=&#34;language-java&#34; data-lang=&#34;java&#34;&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;&lt;span style=&#34;color:#f92672&#34;&gt;import&lt;/span&gt; java.util.*;&#xA;&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;&lt;span style=&#34;color:#f92672&#34;&gt;import&lt;/span&gt; java.io.*;&#xA;&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;&#xA;&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;&lt;span style=&#34;color:#66d9ef&#34;&gt;public&lt;/span&gt; &lt;span style=&#34;color:#66d9ef&#34;&gt;class&lt;/span&gt; &lt;span style=&#34;color:#a6e22e&#34;&gt;TodoListManager&lt;/span&gt; {&#xA;&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;    &lt;span style=&#34;color:#75715e&#34;&gt;// Your Java code continues...&lt;/span&gt;&#xA;&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;}&#xA;&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;ul&gt;&#xA;&lt;li&gt;📌Save and Preview: Save the Markdown file and use Hugo&amp;rsquo;s server to preview your website. The Java code should appear properly formatted in the showcase section.&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;&lt;strong&gt;Remember&lt;/strong&gt;, correctly marking down your code not only makes it more readable but also enhances the overall user experience on your website.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Understanding Markdown</title>
-      <link>https://tbakie.github.io/TBEwebsite/post/06/sixth/</link>
+      <link>http://localhost:1313/TBEwebsite/post/06/sixth/</link>
       <pubDate>Thu, 09 Nov 2023 11:02:08 -0700</pubDate>
-      <guid>https://tbakie.github.io/TBEwebsite/post/06/sixth/</guid>
+      <guid>http://localhost:1313/TBEwebsite/post/06/sixth/</guid>
       <description>&lt;h2 id=&#34;markdown&#34;&gt;Markdown🌍&lt;/h2&gt;&#xA;&lt;p&gt;is a lightweight markup language that you can use to add formatting elements to plain text. The markdown syntax was created by John Gruber of Daring Fireball in 2004 to make text as readable as possible. Markdown is one of the most popular markup languages and has a loyal fanbase.&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;Markdown as a bridge between plain text and HTML&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;p&gt;🌍There are several reasons for this strong devotion. The first is that Markdown has always been a power-user tool. Regular users may always prefer using rich-text editors, but for those who are familiar with Markdown and its nifty editing shortcuts, trying to stop using it is a little like trying to unlearn a language.&lt;/p&gt;</description>
     </item>
     <item>
       <title>How To Deploy Website In Github</title>
-      <link>https://tbakie.github.io/TBEwebsite/post/04/fourth/</link>
+      <link>http://localhost:1313/TBEwebsite/post/04/fourth/</link>
       <pubDate>Tue, 07 Nov 2023 11:02:08 -0700</pubDate>
-      <guid>https://tbakie.github.io/TBEwebsite/post/04/fourth/</guid>
+      <guid>http://localhost:1313/TBEwebsite/post/04/fourth/</guid>
       <description>&lt;h1 id=&#34;deploying-&#34;&gt;Deploying ⚙️&lt;/h1&gt;&#xA;&lt;p&gt;Creating a website on GitHub is an effective and professional way to present your projects and interests to a global audience. Utilizing GitHub Pages, you can host your site directly from a GitHub repository, offering a no-cost solution with the robust infrastructure of GitHub. This approach is not only economical but also integrates seamlessly with your development workflow.&lt;/p&gt;&#xA;&lt;p&gt;⚙️By automating the deployment process, GitHub Actions offers another degree of efficiency. GitHub Actions may automatically build and deploy your site whenever you make improvements to your repository, ensuring that it always represents your most recent work. This automatic pipeline is essential for keeping a dynamic, up-to-date online presence.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Github as a Hosting Platform</title>
-      <link>https://tbakie.github.io/TBEwebsite/post/03/third/</link>
+      <link>http://localhost:1313/TBEwebsite/post/03/third/</link>
       <pubDate>Mon, 06 Nov 2023 11:02:08 -0700</pubDate>
-      <guid>https://tbakie.github.io/TBEwebsite/post/03/third/</guid>
+      <guid>http://localhost:1313/TBEwebsite/post/03/third/</guid>
       <description>&lt;h2 id=&#34;github-the-premier-platform-for-code-hosting-and-collaboration&#34;&gt;❤️GitHub: The Premier Platform for Code Hosting and Collaboration&lt;/h2&gt;&#xA;&lt;p&gt;👉&lt;strong&gt;GitHub&lt;/strong&gt; is generally acknowledged as a primary center for coding initiatives, with a focus on hosting, saving, and modifying code. GitHub, which is popular for source code management, provides powerful version control and collaboration tools. It is a popular platform for hosting tiny websites, project management, and team collaboration among both people and corporations. GitHub&amp;rsquo;s heart is in its &amp;ldquo;Repositories,&amp;rdquo; which are specialized locations for organizing code for specific projects.&lt;/p&gt;</description>
     </item>
     <item>
       <title>How do I iteratively develop my website?</title>
-      <link>https://tbakie.github.io/TBEwebsite/post/02/second/</link>
+      <link>http://localhost:1313/TBEwebsite/post/02/second/</link>
       <pubDate>Tue, 17 Oct 2023 11:02:08 -0700</pubDate>
-      <guid>https://tbakie.github.io/TBEwebsite/post/02/second/</guid>
+      <guid>http://localhost:1313/TBEwebsite/post/02/second/</guid>
       <description>&lt;h2 id=&#34;to-iteratively-develop&#34;&gt;To iteratively develop&lt;/h2&gt;&#xA;&lt;p&gt;🦾a Hugo &lt;strong&gt;static&lt;/strong&gt; website and see changes on the spot, you can use Hugo&amp;rsquo;s built-in local server which live reloads as you make changes to your site. Here&amp;rsquo;s a step-by-step guide:&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Install Hugo on your local machine.&lt;/li&gt;&#xA;&lt;li&gt;Navigate to your Hugo site directory via the command line.&lt;/li&gt;&#xA;&lt;li&gt;Run hugo server in the command line.&lt;/li&gt;&#xA;&lt;li&gt;This command starts a local web server and auto-regenerates your site whenever you make changes to the content.&lt;/li&gt;&#xA;&lt;li&gt;You can now see your changes in real-time by viewing http://localhost:1313 in your web browser.&#xA;As you iterate on your website, you simply edit the files, and the changes will be reflected immediately in your browser, enabling a smooth and rapid development cycle. For a comprehensive guide and documentation, visiting the &lt;a href=&#34;https://gohugo.io/documentation/&#34;&gt;here&lt;/a&gt;   Hugo Documentation can be very helpful!&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
     </item>
     <item>
       <title>Hobbies</title>
-      <link>https://tbakie.github.io/TBEwebsite/hobbies/</link>
+      <link>http://localhost:1313/TBEwebsite/about/</link>
       <pubDate>Mon, 16 Oct 2023 11:02:08 -0700</pubDate>
-      <guid>https://tbakie.github.io/TBEwebsite/hobbies/</guid>
+      <guid>http://localhost:1313/TBEwebsite/about/</guid>
       <description>&lt;p&gt;I&amp;rsquo;m passionate about a range of hobbies that keep me balanced and engaged. Playing basketball is more than just a game for me; it&amp;rsquo;s a way to build teamwork skills and stay physically fit. When I&amp;rsquo;m not on the court, I love spending quality time with my friends, as it provides me with a strong support system and a break from my busy schedule. I&amp;rsquo;m also involved in club activities at my university, offering a structured way to pursue my interests and engage with my community. On the academic side, my interest in software development goes hand in hand with my computer science studies, allowing me to put theory into practice. Lastly, hiking offers me a refreshing escape from the urban environment, a way to challenge myself physically, and a moment to connect with nature. Overall, my hobbies provide a well-rounded experience that contributes to both my personal and professional development.&lt;/p&gt;</description>
     </item>
     <item>
       <title>LeetCode</title>
-      <link>https://tbakie.github.io/TBEwebsite/leetcode/</link>
+      <link>http://localhost:1313/TBEwebsite/leetcode/</link>
       <pubDate>Mon, 16 Oct 2023 11:02:08 -0700</pubDate>
-      <guid>https://tbakie.github.io/TBEwebsite/leetcode/</guid>
+      <guid>http://localhost:1313/TBEwebsite/leetcode/</guid>
       <description>&lt;p&gt;I will post the interview questions I did here on &lt;strong&gt;leetcode&lt;/strong&gt; and share important information about them here, such as important points I found important, parts I had difficulty with and new things I learned.&lt;/p&gt;&#xA;&lt;h2 id=&#34;remove-element&#34;&gt;Remove Element&lt;/h2&gt;&#xA;&lt;p&gt;Given an integer array nums and an integer val, remove all occurrences of val in nums in-place. The order of the elements may be changed. Then return the number of elements in nums which are not equal to val.&#xA;👇&lt;/p&gt;</description>
     </item>
     <item>
       <title>Resume</title>
-      <link>https://tbakie.github.io/TBEwebsite/resume/</link>
+      <link>http://localhost:1313/TBEwebsite/resume/</link>
       <pubDate>Mon, 16 Oct 2023 11:02:08 -0700</pubDate>
-      <guid>https://tbakie.github.io/TBEwebsite/resume/</guid>
-      <description>&lt;p&gt;SUMMARY OF QUALIFICATIONS&#xA; Electrical and Computer engineering student specializing in Embedded Systems, Machine Learning, Software/Hardware Development and&#xA;Project Management, with hands-on experience.&#xA; Applied programming skills with Java, C++, Python, HTML, and Git, firmware experience in FPGA &amp;amp; PCB projects&#xA; Eager to expand knowledge in Machine Learning, Computer Architecture, and Embedded Systems to deliver effective projects.&#xA; Founder and President of the Turkish Student Association at University of Washington, member of Theta Delta Chi Fraternity&#xA; Influencer on Instagram and TikTok with expertise in advertising and sales across Meta, Google, and Shopify platforms.&#xA;EDUCATION&#xA;University of Washington Sept 2022 – June 2026&#xA;B.Sc. Electrical and Computer Engineering GPA: 3.52&#xA;Seattle, WA&#xA;Related Coursework: Computer Science I-II-III, Computer Hardware Skills, Topics in Electrical Engineering, Signal Processing, Hardware Skills,&#xA;Digital Circuits and Systems, Fundamentals of Electrical Engineering&#xA;SKILLS&#xA;Software: Java, C++, Python, Git, HTML&#xA;Hardware: PCB Design, Oscilloscope, Digital Design&#xA;Firmware: FPGA, Microcontrollers, System Verilog&#xA;Design Tools: 3D Printing &amp;amp; Design&#xA;EXPERIENCE &amp;amp; PROJECTS&#xA;Static Website Design (&lt;a href=&#34;https://tbakie.github.io/TBEwebsite/&#34;&gt;https://tbakie.github.io/TBEwebsite/&lt;/a&gt;) Oct 2023 – Present&#xA;Personal Project&#xA; Utilized HTML and JavaScript to create and manage a static website that showcases educational materials on web development. Published&#xA;more than 15 posts that includes tutorials and tips on creating and improving static websites.&#xA; Choose Hugo, a static side generator written in Go, to make an efficient website with fast prototyping capabilities.&#xA; Worked with interdisciplinary manager to refine website development processes and enhance content quality. Leveraged GitHub for version&#xA;control and public publication, effectively integrating features and improvements into the portfolio.&#xA; Experience: VS Code, GitHub, HTML&#xA;Jebwa (jebwa.com) June 2023 – Aug 2023&#xA;Software Engineering Intern&#xA; Engineered and implemented targeted marketing campaigns using Java and Python. Developed algorithms and scripts to enhance user&#xA;engagement, drive sales, and analyze campaign performance.&#xA; Conducted testing to improve service efficiency and performance. Assisted with customer inquiries to enhance service quality and overall user&#xA;experience.&#xA; Worked within a team to create and deploy custom backend code, facilitating effective communication between technical and non-technical&#xA;stakeholders to meet project objectives.&#xA;Meta, TikTok and Shopify Advertising/Influencing Dec 2022 – Present&#xA;Freelance&#xA; Strategically leveraged TikTok, Facebook, and Google advertising platforms to create compelling ad campaigns that effectively reached and&#xA;engaged target audiences, resulting in increased brand visibility and sales conversions.&#xA; Managed an Instagram and Facebook accounts with over 20 million video interactions and a successful TikTok influencer account,&#xA;connecting with a broad audience and driving ad campaigns or product sales effectively.&#xA;.&#xA;LEADERSHIPS &amp;amp; EXTRA CURRICULAR&#xA;Turkish Association Founder and President Oct 2022 – Present&#xA;Led 75+ members in promoting Turkish culture at UW through events and initiatives. Organized fundraising drives to aid communities in Turkey&#xA;and the US, while managing outreach and collaboration with other campus organizations.&#xA;Theta Delta Chi (TDX) Fraternity Member. Jul 2023- Present&#xA;Active participant in the historic Xi Deuteron Chapter, known for its strong legacy and community involvement. Contributed to impactful&#xA;programs like Bros United and supported various philanthropic and social initiatives.&#xA;Study Abroad &amp;amp; Research in Italy Jun 2024 – Aug 2024&#xA;Explored the connection between food, community, and well-being through immersive farmstays and cultural exchanges. Analyzed the impact of&#xA;Italian culinary traditions on health, comparing them to U.S. practices for a global health perspective.&lt;/p&gt;</description>
+      <guid>http://localhost:1313/TBEwebsite/resume/</guid>
+      <description>&lt;h1 id=&#34;summary-of-qualifications&#34;&gt;SUMMARY OF QUALIFICATIONS&lt;/h1&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt; Electrical and Computer engineering student specializing in Embedded Systems, Signal Conditioning, FPGA &amp;amp; PCB Design, Hardware&#xA;Development and Project Management, with hands-on experience.&lt;/li&gt;&#xA;&lt;li&gt; Applied programming skills with Java, C++, Python, HTML&amp;amp;CSS, and Git, firmware experience in FPGA &amp;amp; PCB projects&lt;/li&gt;&#xA;&lt;li&gt; Eager to expand knowledge in Embedded Systems, Signal Conditioning and Digital Design to deliver effective projects.&lt;/li&gt;&#xA;&lt;li&gt; Experience in research and project development, including designing a NASA-aligned meteor detection system at SEAL Lab and developing static websites to showcase educational resources.&lt;/li&gt;&#xA;&lt;li&gt; Founder and President of the Turkish Student Association at University of Washington, member of Theta Delta Chi Fraternity&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h1 id=&#34;education&#34;&gt;EDUCATION&lt;/h1&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;University of Washington Sept 2022 – June 2026&#xA;B.Sc. Electrical and Computer Engineering GPA: 3.52&#xA;Seattle, WA&lt;/li&gt;&#xA;&lt;li&gt;Related Coursework:  Signal Processing, Computer Hardware Skills, Digital Circuits and Systems, Topics in Electrical Engineering, Hardware Skills, Fundamentals of Electrical Engineering, Computer Science I-II-III&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h1 id=&#34;skills&#34;&gt;SKILLS&lt;/h1&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Software: Java, C++, Python, Git, HTML &amp;amp; CSS&lt;/li&gt;&#xA;&lt;li&gt;Hardware: PCB Design, Oscilloscope, Digital Design, ModelSim, Quartus&lt;/li&gt;&#xA;&lt;li&gt;Firmware: FPGA, Microcontrollers, System Verilog&lt;/li&gt;&#xA;&lt;li&gt;Design Tools: 3D Printing &amp;amp; Design&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h1 id=&#34;experience--projects&#34;&gt;EXPERIENCE &amp;amp; PROJECTS&lt;/h1&gt;&#xA;&lt;h2 id=&#34;seal-lab---sep-2024--present&#34;&gt;SEAL Lab |  Sep 2024 – Present&lt;/h2&gt;&#xA;&lt;p&gt;&lt;strong&gt;Undergraduate Research Assistant&lt;/strong&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>What is Hugo?</title>
-      <link>https://tbakie.github.io/TBEwebsite/post/01/first/</link>
+      <link>http://localhost:1313/TBEwebsite/post/01/first/</link>
       <pubDate>Mon, 16 Oct 2023 11:02:08 -0700</pubDate>
-      <guid>https://tbakie.github.io/TBEwebsite/post/01/first/</guid>
+      <guid>http://localhost:1313/TBEwebsite/post/01/first/</guid>
       <description>&lt;h2 id=&#34;hugo&#34;&gt;Hugo&lt;/h2&gt;&#xA;&lt;p&gt;is a popular,  open-source static site generator that is used to build websites quickly and efficiently. Unlike systems that dynamically build a page with each visitor request, Hugo generates pages when you create or update your content. It converts your content into plain HTML files, providing reusable components and a convenient standard file structure​​​​​​.&lt;/p&gt;&#xA;&lt;p&gt;A static website is one where the content is fixed and the same for every user, and is stored on the server as plain HTML files. A dynamic website, on the other hand, generates content in real-time as it is requested by the user, often using server-side scripting languages and databases.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Archives</title>
-      <link>https://tbakie.github.io/TBEwebsite/archives/</link>
+      <link>http://localhost:1313/TBEwebsite/archives/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://tbakie.github.io/TBEwebsite/archives/</guid>
+      <guid>http://localhost:1313/TBEwebsite/archives/</guid>
       <description>archives</description>
     </item>
   </channel>

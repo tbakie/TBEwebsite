@@ -2,24 +2,24 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Github on TBE Website </title>
-    <link>https://tbakie.github.io/TBEwebsite/categories/github/</link>
+    <link>http://localhost:1313/TBEwebsite/categories/github/</link>
     <description>Recent content in Github on TBE Website </description>
     <generator>Hugo</generator>
     <language>en</language>
     <lastBuildDate>Tue, 07 Nov 2023 11:02:08 -0700</lastBuildDate>
-    <atom:link href="https://tbakie.github.io/TBEwebsite/categories/github/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/TBEwebsite/categories/github/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>How To Deploy Website In Github</title>
-      <link>https://tbakie.github.io/TBEwebsite/post/04/fourth/</link>
+      <link>http://localhost:1313/TBEwebsite/post/04/fourth/</link>
       <pubDate>Tue, 07 Nov 2023 11:02:08 -0700</pubDate>
-      <guid>https://tbakie.github.io/TBEwebsite/post/04/fourth/</guid>
+      <guid>http://localhost:1313/TBEwebsite/post/04/fourth/</guid>
       <description>&lt;h1 id=&#34;deploying-&#34;&gt;Deploying ⚙️&lt;/h1&gt;&#xA;&lt;p&gt;Creating a website on GitHub is an effective and professional way to present your projects and interests to a global audience. Utilizing GitHub Pages, you can host your site directly from a GitHub repository, offering a no-cost solution with the robust infrastructure of GitHub. This approach is not only economical but also integrates seamlessly with your development workflow.&lt;/p&gt;&#xA;&lt;p&gt;⚙️By automating the deployment process, GitHub Actions offers another degree of efficiency. GitHub Actions may automatically build and deploy your site whenever you make improvements to your repository, ensuring that it always represents your most recent work. This automatic pipeline is essential for keeping a dynamic, up-to-date online presence.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Github as a Hosting Platform</title>
-      <link>https://tbakie.github.io/TBEwebsite/post/03/third/</link>
+      <link>http://localhost:1313/TBEwebsite/post/03/third/</link>
       <pubDate>Mon, 06 Nov 2023 11:02:08 -0700</pubDate>
-      <guid>https://tbakie.github.io/TBEwebsite/post/03/third/</guid>
+      <guid>http://localhost:1313/TBEwebsite/post/03/third/</guid>
       <description>&lt;h2 id=&#34;github-the-premier-platform-for-code-hosting-and-collaboration&#34;&gt;❤️GitHub: The Premier Platform for Code Hosting and Collaboration&lt;/h2&gt;&#xA;&lt;p&gt;👉&lt;strong&gt;GitHub&lt;/strong&gt; is generally acknowledged as a primary center for coding initiatives, with a focus on hosting, saving, and modifying code. GitHub, which is popular for source code management, provides powerful version control and collaboration tools. It is a popular platform for hosting tiny websites, project management, and team collaboration among both people and corporations. GitHub&amp;rsquo;s heart is in its &amp;ldquo;Repositories,&amp;rdquo; which are specialized locations for organizing code for specific projects.&lt;/p&gt;</description>
     </item>
   </channel>
