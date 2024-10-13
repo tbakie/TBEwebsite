@@ -11,7 +11,25 @@
     </image>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 27 Nov 2023 11:02:08 -0700</lastBuildDate><atom:link href="https://tbakie.github.io/TBEwebsite/categories/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 11 Dec 2023 11:02:08 -0700</lastBuildDate><atom:link href="https://tbakie.github.io/TBEwebsite/categories/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>ECE</title>
+      <link>https://tbakie.github.io/TBEwebsite/categories/ece/</link>
+      <pubDate>Mon, 11 Dec 2023 11:02:08 -0700</pubDate>
+      
+      <guid>https://tbakie.github.io/TBEwebsite/categories/ece/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Research</title>
+      <link>https://tbakie.github.io/TBEwebsite/categories/research/</link>
+      <pubDate>Mon, 11 Dec 2023 11:02:08 -0700</pubDate>
+      
+      <guid>https://tbakie.github.io/TBEwebsite/categories/research/</guid>
+      <description></description>
+    </item>
+    
     <item>
       <title>Interview</title>
       <link>https://tbakie.github.io/TBEwebsite/categories/interview/</link>
@@ -117,24 +135,6 @@
       <pubDate>Tue, 07 Nov 2023 11:02:08 -0700</pubDate>
       
       <guid>https://tbakie.github.io/TBEwebsite/categories/website/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>ECE</title>
-      <link>https://tbakie.github.io/TBEwebsite/categories/ece/</link>
-      <pubDate>Sun, 11 Dec 2022 11:02:08 -0700</pubDate>
-      
-      <guid>https://tbakie.github.io/TBEwebsite/categories/ece/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Research</title>
-      <link>https://tbakie.github.io/TBEwebsite/categories/research/</link>
-      <pubDate>Sun, 11 Dec 2022 11:02:08 -0700</pubDate>
-      
-      <guid>https://tbakie.github.io/TBEwebsite/categories/research/</guid>
       <description></description>
     </item>
     
