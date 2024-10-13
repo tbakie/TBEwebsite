@@ -120,5 +120,23 @@
       <description></description>
     </item>
     
+    <item>
+      <title>ECE</title>
+      <link>https://tbakie.github.io/TBEwebsite/categories/ece/</link>
+      <pubDate>Sun, 11 Dec 2022 11:02:08 -0700</pubDate>
+      
+      <guid>https://tbakie.github.io/TBEwebsite/categories/ece/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Research</title>
+      <link>https://tbakie.github.io/TBEwebsite/categories/research/</link>
+      <pubDate>Sun, 11 Dec 2022 11:02:08 -0700</pubDate>
+      
+      <guid>https://tbakie.github.io/TBEwebsite/categories/research/</guid>
+      <description></description>
+    </item>
+    
   </channel>
 </rss>
