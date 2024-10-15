@@ -64,7 +64,7 @@ params:
     images: ["papermod-cover.png"]
 
     profileMode:
-        enabled: false
+        enabled: true
         title: Tugrul Baki Efesoy
         imageUrl: "resim2.jpg"
         imageTitle: my image
