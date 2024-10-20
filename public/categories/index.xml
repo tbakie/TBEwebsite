@@ -16,10 +16,24 @@
       <description></description>
     </item>
     <item>
+      <title>Lab</title>
+      <link>http://localhost:1313/TBEwebsite/categories/lab/</link>
+      <pubDate>Mon, 27 Nov 2023 11:02:08 -0700</pubDate>
+      <guid>http://localhost:1313/TBEwebsite/categories/lab/</guid>
+      <description></description>
+    </item>
+    <item>
       <title>Leetcode</title>
       <link>http://localhost:1313/TBEwebsite/categories/leetcode/</link>
       <pubDate>Mon, 27 Nov 2023 11:02:08 -0700</pubDate>
       <guid>http://localhost:1313/TBEwebsite/categories/leetcode/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Research</title>
+      <link>http://localhost:1313/TBEwebsite/categories/research/</link>
+      <pubDate>Mon, 27 Nov 2023 11:02:08 -0700</pubDate>
+      <guid>http://localhost:1313/TBEwebsite/categories/research/</guid>
       <description></description>
     </item>
     <item>

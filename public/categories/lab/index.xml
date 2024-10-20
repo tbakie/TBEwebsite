@@ -9,11 +9,11 @@
     <lastBuildDate>Mon, 27 Nov 2023 11:02:08 -0700</lastBuildDate>
     <atom:link href="http://localhost:1313/TBEwebsite/categories/lab/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>My Journey with Meteor Detection at SEAL Lab</title>
+      <title>Undergraduate Research Assistant at SEAL Lab</title>
       <link>http://localhost:1313/TBEwebsite/post/16/16/</link>
       <pubDate>Mon, 27 Nov 2023 11:02:08 -0700</pubDate>
       <guid>http://localhost:1313/TBEwebsite/post/16/16/</guid>
-      <description>&lt;p&gt;Have you ever stopped to think about how much space debris is falling to Earth every single day? Well, &lt;strong&gt;NASA&lt;/strong&gt; estimates that 48.5 tons of meteoritic material hits our planet daily! When I first read that, I was mind-blown. This sparked my interest in studying meteor showers more closely—and what better way to do that than by diving into the world of signal processing, antennas, and space science?&lt;/p&gt;&#xA;&lt;p&gt;During my time as an Undergraduate Research Assistant at SEAL Lab, I got to work on an exciting project aimed at detecting meteors using passive antennas to capture Very-Low-Frequency (VLF) and Ultra-Low-Frequency (ULF) signals. Essentially, we’re capturing the electromagnetic signals from meteors as they burn up in Earth’s atmosphere—pretty cool, right?&lt;/p&gt;</description>
+      <description>&lt;h2 id=&#34;my-journey-with-meteor-detection-at-seal-lab&#34;&gt;My Journey with Meteor Detection at SEAL Lab&lt;/h2&gt;&#xA;&lt;p&gt;Have you ever stopped to think about how much space debris is falling to Earth every single day? Well, &lt;strong&gt;NASA&lt;/strong&gt; estimates that 48.5 tons of meteoritic material hits our planet daily! When I first read that, I was mind-blown. This sparked my interest in studying meteor showers more closely—and what better way to do that than by diving into the world of signal processing, antennas, and space science?&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
