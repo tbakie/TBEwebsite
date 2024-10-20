@@ -1,19 +1,26 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Research on TBE Website </title>
-    <link>http://localhost:1313/TBEwebsite/categories/research/</link>
+    <link>https://tbakie.github.io/TBEwebsite/categories/research/</link>
     <description>Recent content in Research on TBE Website </description>
-    <generator>Hugo</generator>
-    <language>en</language>
-    <lastBuildDate>Sun, 11 Dec 2022 11:02:08 -0700</lastBuildDate>
-    <atom:link href="http://localhost:1313/TBEwebsite/categories/research/index.xml" rel="self" type="application/rss+xml" />
+    <image>
+      <title>TBE Website </title>
+      <url>https://tbakie.github.io/TBEwebsite/papermod-cover.png</url>
+      <link>https://tbakie.github.io/TBEwebsite/papermod-cover.png</link>
+    </image>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 27 Nov 2023 11:02:08 -0700</lastBuildDate><atom:link href="https://tbakie.github.io/TBEwebsite/categories/research/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Undergraduate Research Assistant at SEAL Lab</title>
-      <link>http://localhost:1313/TBEwebsite/post/16/16/</link>
-      <pubDate>Sun, 11 Dec 2022 11:02:08 -0700</pubDate>
-      <guid>http://localhost:1313/TBEwebsite/post/16/16/</guid>
-      <description>&lt;h1 id=&#34;my-journey-with-meteor-detection-at-seal-lab&#34;&gt;My Journey with Meteor Detection at SEAL Lab&lt;/h1&gt;&#xA;&lt;p&gt;Have you ever stopped to think about how much space debris is falling to Earth every single day? Well, NASA estimates that 48.5 tons of meteoritic material hits our planet daily! When I first read that, I was mind-blown. This sparked my interest in studying meteor showers more closely—and what better way to do that than by diving into the world of signal processing, antennas, and space science?&lt;/p&gt;</description>
+      <title>My Journey with Meteor Detection at SEAL Lab</title>
+      <link>https://tbakie.github.io/TBEwebsite/post/16/16/</link>
+      <pubDate>Mon, 27 Nov 2023 11:02:08 -0700</pubDate>
+      
+      <guid>https://tbakie.github.io/TBEwebsite/post/16/16/</guid>
+      <description>Have you ever stopped to think about how much space debris is falling to Earth every single day? Well, NASA estimates that 48.5 tons of meteoritic material hits our planet daily! When I first read that, I was mind-blown. This sparked my interest in studying meteor showers more closely—and what better way to do that than by diving into the world of signal processing, antennas, and space science?
+During my time as an Undergraduate Research Assistant at SEAL Lab, I got to work on an exciting project aimed at detecting meteors using passive antennas to capture Very-Low-Frequency (VLF) and Ultra-Low-Frequency (ULF) signals.</description>
     </item>
+    
   </channel>
 </rss>
