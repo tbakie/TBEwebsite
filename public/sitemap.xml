@@ -2,12 +2,6 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost:1313/TBEwebsite/post/</loc>
-    <lastmod>2024-10-28T11:02:08-07:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/TBEwebsite/</loc>
-    <lastmod>2024-10-28T11:02:08-07:00</lastmod>
-  </url><url>
     <loc>http://localhost:1313/TBEwebsite/categories/</loc>
     <lastmod>2023-11-27T11:02:08-07:00</lastmod>
   </url><url>
@@ -18,6 +12,15 @@
     <lastmod>2023-11-27T11:02:08-07:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/TBEwebsite/post/15/15/</loc>
+    <lastmod>2023-11-27T11:02:08-07:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/TBEwebsite/post/16/15/</loc>
+    <lastmod>2023-11-27T11:02:08-07:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/TBEwebsite/post/</loc>
+    <lastmod>2023-11-27T11:02:08-07:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/TBEwebsite/</loc>
     <lastmod>2023-11-27T11:02:08-07:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/TBEwebsite/post/14/14/</loc>
