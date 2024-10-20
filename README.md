@@ -29,4 +29,7 @@
 ## 11/27 Weekly plan:
 - Leetcode
 - Interview questions on leetcode
+
+## 10/20/24 Weekly plan:
+- Introducing my process on Research Assistant at SEAL Lab
   
