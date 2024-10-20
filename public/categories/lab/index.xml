@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Research on TBE Website </title>
-    <link>http://localhost:1313/TBEwebsite/categories/research/</link>
-    <description>Recent content in Research on TBE Website </description>
+    <title>Lab on TBE Website </title>
+    <link>http://localhost:1313/TBEwebsite/categories/lab/</link>
+    <description>Recent content in Lab on TBE Website </description>
     <generator>Hugo</generator>
     <language>en</language>
     <lastBuildDate>Mon, 27 Nov 2023 11:02:08 -0700</lastBuildDate>
-    <atom:link href="http://localhost:1313/TBEwebsite/categories/research/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/TBEwebsite/categories/lab/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>My Journey with Meteor Detection at SEAL Lab</title>
       <link>http://localhost:1313/TBEwebsite/post/16/16/</link>
